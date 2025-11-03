@@ -16,7 +16,6 @@ The content of this article represents the author's personal views and does not 
 
 ---
 
-
 ## Prologue: The "Why" I Almost Lost in Technology
 
 For nine years as a professional, I've been involved in developing systems where safety is paramount. These were years spent constantly facing evolving technology while pondering what lies behind it: "What is safety?" and "What is the relationship between technology and people?"
