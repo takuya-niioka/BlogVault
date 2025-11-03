@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Decision-Making Under Uncertainty - The 70 Percent Rule.md",
+                "file": "content/posts/Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision-Making Under Uncertainty - The 70 Percent Rule"
+              "title": "Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages"
             }
           }
         ]
@@ -168,19 +168,32 @@
   },
   "active": "6a4c4afe298724e5",
   "lastOpenFiles": [
-    "temp_git_status.txt",
-    "content/posts/Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages.md",
-    "public/categories/engineering-leadership/index.xml",
-    "public/categories/product-development/index.xml",
-    "public/categories/decision-making/index.xml",
-    "public/categories/engineering-leadership/page/1/index.html",
-    "public/categories/engineering-leadership/page/1",
-    "public/categories/engineering-leadership/page",
-    "public/categories/engineering-leadership/index.html",
-    "public/categories/engineering-leadership",
-    "public/categories/product-development/page/1/index.html",
-    "public/categories/product-development/page/1",
+    "content/medium/Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages.md",
+    "public/ja/tags/risk-management/page/1/index.html",
+    "public/ja/tags/risk-management/page/1",
+    "public/ja/tags/risk-management/page",
+    "public/ja/tags/risk-management/index.xml",
+    "public/ja/tags/risk-management/index.html",
+    "public/ja/tags/risk-management",
+    "public/ja/ja/posts/value-oriented-engineering/index.html",
+    "public/ja/ja/posts/value-oriented-engineering",
+    "content/medium/Decision-Making Under Uncertainty - The 70 Percent Rule.md",
+    "GISCUS_SETUP.md",
     "content/posts/Decision-Making Under Uncertainty - The 70 Percent Rule.md",
+    "content/zenn/機能ではなく価値を軸に考えるエンジニアリング：何を良しとするかを定める力.md",
+    "content/zenn/不確実性を受け入れる判断力：70%で決める思考法.md",
+    "content/zenn/なぜ手動運転中の安全性が自動運転中より重要なのか.md",
+    "content/zenn/Out_Article_Zenn_Article_pandoc_citations.md",
+    "content/zenn/Obsidianから自動で二言語にグローバル配信するブログシステムの構築.md",
+    "content/zenn",
+    "content/devto/Why Safety During Manual Driving Matters More Than During Autonomous Driving.md",
+    "content/devto/Value-Oriented Engineering The Power to Define What We Consider Good.md",
+    "content/devto/Decision-Making Under Uncertainty - The 70 Percent Rule.md",
+    "content/devto/Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages.md",
+    "content/devto",
+    "content/medium/Why Safety During Manual Driving Matters More Than During Autonomous Driving.md",
+    "content/medium/Value-Oriented Engineering The Power to Define What We Consider Good.md",
+    "content/posts/Building an Automated Bilingual Blog System with Obsidian - Going Global in Two Languages.md",
     "content/posts/Value-Oriented Engineering The Power to Define What We Consider Good.md",
     "content/posts/Why Safety During Manual Driving Matters More Than During Autonomous Driving.md",
     "content/ja/posts/不確実性を受け入れる判断力：70%で決める思考法.md",
@@ -190,8 +203,6 @@
     "content/ja/posts/Obsidianから自動で二言語にグローバル配信するブログシステムの構築.md",
     "content/posts/Why Safety During Manual Driving is More Important Than During Autonomous Driving.md",
     "content/ja/posts/なぜ手動運転中の安全性が自動運転中よりも重要なのか.md",
-    "content/ja/drafts/なぜ手動運転中の安全性が自動運転中より重要なのか.md",
-    "content/about.md",
     "public/images/profile.jpg",
     "themes/ananke/assets/ananke/socials/suse.svg",
     "themes/ananke/assets/ananke/socials/swift.svg",
@@ -201,18 +212,6 @@
     "themes/ananke/assets/ananke/socials/tencent-weibo.svg",
     "themes/ananke/assets/ananke/socials/the-red-yeti.svg",
     "themes/ananke/assets/ananke/socials/themeco.svg",
-    "themes/ananke/assets/ananke/socials/themeisle.svg",
-    "content/ja/posts/_index.md",
-    "content/posts/Obsidianから自動で二言語にグローバル配信するブログシステムの構築.ja.md",
-    "content/posts/Building an Automated Bilingual Blog System with Obsidian - Going Global from Day One.md",
-    "content/ja/posts/welcome.md",
-    "content/ja/posts/test-obsidian-blog.md",
-    "content/ja/posts/my-second-post.md",
-    "content/ja/posts/EvolutionVaultからBlogVaultへの記事転送自動化システムの構築方法.md",
-    "content/posts/Building an Automated Pipeline.md",
-    "content/ja/posts/test.md",
-    "content/ja/posts/年間$10.18で実現：Obsidianからグローバル配信まで、完全自動化されたバイリンガルブログシステムの構築.md",
-    "content/ja/posts/Obsidianから半自動で二言語にグローバル配信するブログシステムの構築.md",
-    "GISCUS_SETUP.md"
+    "themes/ananke/assets/ananke/socials/themeisle.svg"
   ]
 }

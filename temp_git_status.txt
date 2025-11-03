@@ -1,6 +1,7 @@
+ M .gitignore
  M .obsidian/workspace.json
- M "content/posts/Decision-Making Under Uncertainty - The 70 Percent Rule.md"
- M public/index.xml
- M public/posts/index.xml
+ M GISCUS_SETUP.md
+ M layouts/_default/single.html
+ M layouts/partials/extend_footer.html
  M temp_git_status.txt
  M themes/PaperMod

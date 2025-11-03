@@ -17,3 +17,8 @@ Thumbs.db
 *.swo
 *~
 
+# Platform-specific article exports
+content/medium/
+content/devto/
+content/zenn/
+
