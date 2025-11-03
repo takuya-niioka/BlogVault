@@ -6,7 +6,8 @@ draft = false
 tags = ["engineering-philosophy", "system-design", "decision-making", "safety", "product-development"]
 slug = "defining-correctness-nine-years-journey"
 categories = ["Engineering Philosophy", "System Design", "Decision Making"]
-description = "Lessons on the essence of "safety" and "value" learned from nine years of system development experience. On the importance of defining "correctness" beyond technical accuracy."
+description = """Lessons on the essence of "safety" and "value" learned from nine years of system development experience.
+On the importance of defining "correctness" beyond technical accuracy."""
 canonical_url = "https://yourblog.com/en/posts/defining-correctness-nine-years-journey"
 date = "2025-11-03T23:13:48+09:00"
 +++
