@@ -22,3 +22,24 @@ content/medium/
 content/devto/
 content/zenn/
 
+# ============================
+# Obsidian Vault standard ignore
+# ============================
+
+# Obsidian internal files
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/plugins/*/data.json
+
+# Temporary / cache files
+~$*
+*.tmp
+*.bak
+*.lock
+*.swp
+temp_git_status.txt
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
