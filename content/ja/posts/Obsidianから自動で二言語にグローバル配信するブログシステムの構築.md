@@ -1,9 +1,12 @@
 +++
+created = "2025-10-27 08:00:00"
+date = "2025-11-04T13:52:28+09:00"
 title = "Obsidianから自動で二言語にグローバル配信するブログシステムの構築"
-date = "2025-10-26T22:03:31+09:00"
+slug = "automated-bilingual-blog-system"
+lang = "ja"
 draft = false
 tags = ["automation", "blog", "hugo", "cloudflare", "obsidian", "AI", "productivity"]
-slug = "automated-bilingual-blog-system"
+categories = ["technology", "automation"]
 description = "Obsidianのマークダウン記事を日本語・英語の二言語に自動変換し、グローバルに配信できるブログシステムの構築方法を詳しく解説。低コストで効率的な情報発信基盤の作り方から技術的な実装手順まで、実践的なノウハウをステップバイステップで紹介します。"
 +++
 
@@ -519,7 +522,6 @@ https://takuyaniioka.com/posts/article-slug/
 
 **実装**:
 ```toml
-# config.toml
 [languages]
   [languages.en]
     languageName = "English"

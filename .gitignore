@@ -17,10 +17,10 @@ Thumbs.db
 *.swo
 *~
 
-# Platform-specific article exports
-content/medium/
-content/devto/
-content/zenn/
+# API Keys
+.env
+*.env
+.env.local
 
 # ============================
 # Obsidian Vault standard ignore
