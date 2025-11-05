@@ -9,6 +9,7 @@ categories = ["Engineering Philosophy", "System Design", "Decision Making"]
 description = "Lessons on the essence of \"safety\" and \"value\" learned from nine years of system development experience. On the importance of defining \"correctness\" beyond technical accuracy."
 canonical_url = "https://yourblog.com/en/posts/defining-correctness-nine-years-journey"
 date = "2025-11-04T13:52:28+09:00"
+publishDate = "2025-11-04T13:52:28+09:00"
 +++
 
 **[Disclaimer]**  

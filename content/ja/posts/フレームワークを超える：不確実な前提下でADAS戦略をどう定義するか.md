@@ -1,6 +1,7 @@
 +++
 title = "フレームワークを超える：不確実な前提下でADAS戦略をどう定義するか"
 date = "2025-11-05T23:45:06+09:00"
+publishDate = "2025-11-05T23:45:06+09:00"
 draft = false
 tags = ["ADAS", "プロダクト戦略", "意思決定", "フレームワーク", "不確実性", "デザイン思考", "自動運転"]
 slug = "beyond-frameworks-adas-strategy-under-uncertainty"

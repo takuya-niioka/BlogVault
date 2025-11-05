@@ -1,6 +1,7 @@
 +++
 created = "2025-10-27 08:00:00"
-date = "2025-11-04T13:52:28+09:00"
+date = "2025-10-27T22:00:00+09:00"
+publishDate = "2025-10-27T22:00:00+09:00"
 title = "Obsidianから自動で二言語にグローバル配信するブログシステムの構築"
 slug = "automated-bilingual-blog-system"
 lang = "ja"

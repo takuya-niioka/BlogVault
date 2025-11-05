@@ -1,6 +1,7 @@
 +++
 title = "Building an Automated Bilingual Blog System with Obsidian: Going Global in Two Languages"
 date = "2025-10-26T22:00:00+09:00"
+publishDate = "2025-10-26T22:00:00+09:00"
 draft = false
 tags = ["automation", "blog", "hugo", "cloudflare", "obsidian", "AI", "productivity"]
 slug = "automated-bilingual-blog-system"

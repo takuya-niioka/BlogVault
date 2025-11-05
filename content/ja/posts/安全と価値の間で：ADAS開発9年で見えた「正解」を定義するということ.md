@@ -8,6 +8,7 @@ slug = "defining-correctness-nine-years-journey"
 categories = ["Engineering Philosophy", "System Design", "Decision Making"]
 description = "9年間のシステム開発経験から学んだ「安全」と「価値」の本質。技術的な正しさを超えて、「正解」を定義する重要性について。"
 date = "2025-11-03T23:13:46+09:00"
+publishDate = "2025-11-03T23:13:46+09:00"
 +++
 
 **【免責事項】**  

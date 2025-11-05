@@ -1,5 +1,6 @@
 +++
 date = "2025-10-31T23:31:03+09:00"
+publishDate = "2025-10-31T23:31:03+09:00"
 type = "out-article"
 title = "Value-Oriented Engineering: The Power to Define What We Consider Good"
 slug = "value-oriented-engineering"

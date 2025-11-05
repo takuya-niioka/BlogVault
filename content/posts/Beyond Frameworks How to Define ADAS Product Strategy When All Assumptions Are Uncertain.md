@@ -1,6 +1,7 @@
 +++
 title = "Beyond Frameworks: How to Define ADAS Product Strategy When All Assumptions Are Uncertain"
 date = "2025-11-05T23:45:06+09:00"
+publishDate = "2025-11-05T23:45:06+09:00"
 draft = false
 tags = ["ADAS", "Product-Strategy", "Decision-Making", "Frameworks", "Uncertainty", "Design-Thinking", "Autonomous-Driving"]
 slug = "beyond-frameworks-adas-strategy-under-uncertainty"
