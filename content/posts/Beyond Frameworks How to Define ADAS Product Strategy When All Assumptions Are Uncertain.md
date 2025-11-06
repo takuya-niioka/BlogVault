@@ -1,7 +1,6 @@
 +++
 title = "Beyond Frameworks: How to Define ADAS Product Strategy When All Assumptions Are Uncertain"
-date = "2025-11-05T23:45:06+09:00"
-publishDate = "2025-11-05T23:45:06+09:00"
+date = "2025-11-05T13:30:00+09:00"
 draft = false
 tags = ["ADAS", "Product-Strategy", "Decision-Making", "Frameworks", "Uncertainty", "Design-Thinking", "Autonomous-Driving"]
 slug = "beyond-frameworks-adas-strategy-under-uncertainty"
@@ -160,7 +159,7 @@ This is not pessimism. Rather, it's the essence of risk management. By questioni
 
 ### Lesson 3: The Courage to Say "I Don't Know"
 
-Engineers tend to avoid saying "I don't know." However, what we don't know, we don't know. Rather than forcing answers and building strategy on uncertain assumptions, honestly acknowledging "I don't know" is far more professional.
+Engineers tend to avoid saying "I don't know." However, what we don't know, we don't know. Rather than forcing answers and building strategy on uncertain assumptions, honestly acknowledging "I don't know" is far more professional. (Related post: [Decision-Making Under Uncertainty: The 70% Rule](/posts/decision-making-under-uncertainty-70-percent-rule/))
 
 What's important is explicitly stating what we know, what we don't know, and how to validate what we don't know. Acknowledging uncertainty while showing how to address it—that is true professionalism, in my view.
 
