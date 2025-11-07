@@ -255,7 +255,3 @@ Month 3でユーザー調査(N=100)を実施、Month 6でプロトタイプテ�
 完璧な答えを求めるのではなく、不確実性を受け入れ、前提を明示し、柔軟に適応する。そういう姿勢こそが、これからの時代のエンジニアに求められるスキルなのではないでしょうか。
 
 不確実性の中で戦略を描き最善を尽くす。それが、私たちエンジニアに本当に求められる仕事です。
-
-## 関連記事
-
-- [Beyond Frameworks: How to Define ADAS Product Strategy When All Assumptions Are Uncertain](/ja/posts/beyond-frameworks-adas-strategy-under-uncertainty/)
