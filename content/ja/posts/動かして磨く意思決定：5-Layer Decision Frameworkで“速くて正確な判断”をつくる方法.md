@@ -1,10 +1,15 @@
 +++
+created = "2025-11-07"
+date = "2025-11-11T23:42:07+09:00"
 title = "動かして磨く意思決定：5-Layer Decision Frameworkで“速くて正確な判断”をつくる方法"
-date = "2025-11-07T12:40:48+09:00"
+author = "Takuya Niioka"
 draft = false
+portfolio = ["[[Portfolio_Blog]]"]
 tags = ["意思決定", "システムデザイン", "技術戦略", "プロダクト戦略", "製品戦略", "エンジニアリング"]
 slug = "5-layer-decision-for-fast-action"
+categories = ["Engineering Philosophy", "Decision Making"]
 description = "悩む前に動き、動きながら考える。Layer 1〜3で思考を構造化し、スピードと品質を両立させる意思決定フレームを解説"
+publishDate = "2025-11-11T23:42:09+09:00"
 +++
 
 ## 導入：意思決定のスピードを上げる
