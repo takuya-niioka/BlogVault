@@ -12,6 +12,7 @@ description = "Learn how engineers can overcome decision paralysis and accelerat
 lang = "en"
 publishDate = "2025-11-11T23:42:10+09:00"
 +++
+## Introduction: Accelerating Decision-Making Speed
 
 Throughout my career as an engineer, I've witnessed countless decision-making scenarios.
 When determining the direction of feature development, selecting new system architectures, or balancing safety requirements with costs—each situation appeared to have "one correct answer," yet in reality, they were all highly uncertain, and no amount of deliberation could provide complete confidence.
