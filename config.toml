@@ -65,6 +65,10 @@ publishDir = "public"
   # Google Analytics
   googleAnalytics = "G-07ZER5L467"
   
+  # Google Search Console verification
+  [params.analytics.google]
+    SiteVerificationTag = ""  # Replace with your Google Search Console verification code
+  
   # Show summary but hide auto-generated title (H1 from markdown content will be shown)
   hideSummary = false
   # Note: PaperMod theme shows frontmatter title by default
