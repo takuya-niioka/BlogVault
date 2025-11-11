@@ -63,7 +63,7 @@ publishDir = "public"
   assets.css = ["css/custom.css"]
   
   # Google Analytics
-  googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 ID
+  googleAnalytics = "G-07ZER5L467"
   
   # Show summary but hide auto-generated title (H1 from markdown content will be shown)
   hideSummary = false
