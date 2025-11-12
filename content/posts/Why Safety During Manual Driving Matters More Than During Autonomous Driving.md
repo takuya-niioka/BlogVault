@@ -1,7 +1,5 @@
 +++
 date = "2025-10-30T09:08:14+09:00"
-publishDate = "2025-10-30T09:08:14+09:00"
-type = "out-article"
 title = "Why Safety During Manual Driving Matters More Than During Autonomous Driving"
 slug = "why-l0-more-important-than-l2"
 lang = "en"
