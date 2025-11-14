@@ -1,16 +1,10 @@
 +++
-created = "2025-11-12"
-date = "2025-11-12T23:40:41+09:00"
 title = "The Essence of System Architecture: Building the Right Thing"
-author = "Takuya Niioka"
+date = "2025-11-14T16:28:29+09:00"
 draft = false
-portfolio = ["[[Portfolio_Blog]]"]
 tags = ["System-Architecture", "Engineering-Philosophy", "Career-Development", "AI-Era", "Product-Strategy"]
 slug = "what-systems-architects-actually-do"
-categories = ["Engineering"]
 description = "Discover what a System Architect truly does beyond common misconceptions and why their role focuses on \"building the right thing\" in ADAS development."
-lang = "en"
-publishDate = "2025-11-12T23:40:43+09:00"
 +++
 
 ## What is a System Architect?
