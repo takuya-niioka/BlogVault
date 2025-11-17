@@ -371,7 +371,7 @@ What AMD's Lisa Su executed was exactly this approach. While betting on the sing
 
 Most difficult is cultural transformation. In successful companies like Intel, "making correct decisions" is emphasized. Thorough analysis, perfect planning, consensus of all stakeholders.
 
-But in an era of rapid environmental change, **speed is more important than correctness**. (Reference article: [@trigger-design-for-decision-criteria])
+But in an era of rapid environmental change, **speed is more important than correctness**. 
 
 Concrete actions for cultural transformation:
 - Simplify decision-making processes (reduce approval layers)
