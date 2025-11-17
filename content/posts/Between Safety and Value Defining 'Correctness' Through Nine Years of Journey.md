@@ -1,22 +1,16 @@
 +++
-created = "2025-11-03"
 title = "Between Safety and Value: Defining 'Correctness' Through Nine Years of Journey"
-author = "Takuya Niioka"
+date = "2025-11-04T07:31:11+09:00"
 draft = false
 tags = ["engineering-philosophy", "system-design", "decision-making", "safety", "product-development"]
 slug = "defining-correctness-nine-years-journey"
-categories = ["Engineering Philosophy", "System Design", "Decision Making"]
 description = "Lessons on the essence of \"safety\" and \"value\" learned from nine years of system development experience. On the importance of defining \"correctness\" beyond technical accuracy."
-canonical_url = "https://yourblog.com/en/posts/defining-correctness-nine-years-journey"
-date = "2025-11-04T13:52:28+09:00"
-publishDate = "2025-11-04T13:52:28+09:00"
 +++
 
 **[Disclaimer]**  
 The content of this article represents the author's personal views and does not reflect the official position of any organization. It does not refer to any specific projects or products.
 
 ---
-
 
 ## Prologue: The "Why" I Almost Lost in Technology
 
@@ -329,3 +323,8 @@ If you're not yet clear, I hope this article becomes a trigger for thinking.
 And if you already have your own "correctness," please verbalize and share it. The engineering community evolves through such exchanges of knowledge.
 
 **With gratitude for nine years.**
+
+## Related Articles
+
+- [The Essence of System Architecture: Building the Right Thing](/posts/what-systems-architects-actually-do/)
+- [When to Switch Decision Criteria: Trigger Design for System Engineers](/posts/when-to-switch-decision-triggers/)

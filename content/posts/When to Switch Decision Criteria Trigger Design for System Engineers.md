@@ -13,6 +13,8 @@ lang = "en"
 publishDate = "2025-11-14T16:46:50+09:00"
 +++
 
+## When to Switch Decision Criteria
+
 In system development, we need to design behaviors that can change decision criteria depending on the situation and achieve different objectives, even for the same function. However, "when" and "what should trigger" the switch in behavior and objectives is a challenge many designers face.
 
 In Advanced Driver Assistance Systems (ADAS) development, we confront this question daily. For example, consider driver monitoring in systems with partial driving assistance capabilities.

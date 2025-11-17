@@ -1,15 +1,10 @@
 +++
-created = "2025-11-07"
-date = "2025-11-11T23:42:07+09:00"
 title = "動かして磨く意思決定：5-Layer Decision Frameworkで“速くて正確な判断”をつくる方法"
-author = "Takuya Niioka"
+date = "2025-11-18T07:31:08+09:00"
 draft = false
-portfolio = ["[[Portfolio_Blog]]"]
 tags = ["意思決定", "システムデザイン", "技術戦略", "プロダクト戦略", "製品戦略", "エンジニアリング"]
 slug = "5-layer-decision-for-fast-action"
-categories = ["Engineering Philosophy", "Decision Making"]
 description = "悩む前に動き、動きながら考える。Layer 1〜3で思考を構造化し、スピードと品質を両立させる意思決定フレームを解説"
-publishDate = "2025-11-11T23:42:09+09:00"
 +++
 
 ## 導入：意思決定のスピードを上げる
@@ -260,3 +255,12 @@ Layer 3は、未来を予測するというよりも、**前提が変わった�
 戦略とは、行動を導く構造であり、行動しなければ戦略ではありません。条件付きで決め、必要に応じて修正する——そうした“暫定的な決断”を積み重ねていくことこそが、現実的で強い意思決定です。  
 
 そしてこのサイクルを素早く回せる人や組織は、結果として最も早く学び、最も早く進化します。 「動かない思考」から、「動きながら考える思考」へ。それが、不確実な時代を生き抜くエンジニアに求められる最も本質的な姿勢だと私は考えています。
+
+
+## 関連記事
+
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
