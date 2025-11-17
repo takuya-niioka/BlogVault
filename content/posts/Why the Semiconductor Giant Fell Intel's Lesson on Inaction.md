@@ -12,6 +12,7 @@ description = "Intel's market cap plunged below $100B as TSMC and NVIDIA soared,
 lang = "en"
 publishDate = "2025-11-18T07:37:22+09:00"
 +++
+## The Fall of a Technology Leader
 
 In recent years, the power dynamics of the semiconductor industry have changed dramatically. Intel, which once led the PC revolution alongside the "Intel Inside" logo and reigned as the absolute king of the semiconductor industry, has been overtaken in market capitalization by both TSMC and NVIDIA. Its market cap, which exceeded $200 billion in 2020, fell below $100 billion by April 2025[^1]. Meanwhile, TSMC reached $1 trillion in July 2025, and NVIDIA, riding the AI boom, became the first company in the world to exceed $5 trillion on October 29, 2025[^2].
 
