@@ -1,15 +1,10 @@
 +++
-created = "2025-11-25"
-date = "2025-11-27T11:59:09+09:00"
 title = "Prioritizing Multiple Options: Switching Criteria by Context"
-author = "Takuya Niioka"
-draft = false
+date = "2025-12-04T16:29:46+09:00"
+draft = true
 tags = ["prioritization", "decision-making", "system-design", "ADAS", "project-management"]
 slug = "prioritization-under-multiple-objectives"
-categories = ["Engineering", "Decision Making"]
 description = "Learn how system architects prioritize multiple team initiatives in ADAS development, from AEB improvements to ISO compliance and cost reduction."
-lang = "en"
-publishDate = "2025-11-27T12:06:00+09:00"
 +++
 
 ## When Advancing Multiple Initiatives as a Team, Where Do You Start?
@@ -1129,6 +1124,7 @@ Next time, I'd like to address "how to execute after deciding priorities" and "h
 - [Drawing the Line: What Should System Architects Decide?](/posts/drawing-decision-boundaries/)
 - [When to Switch Decision Criteria: Trigger Design for System Engineers](/posts/when-to-switch-decision-triggers/)
 - [Why the Semiconductor Giant Fell: Intel's Lesson on Inaction](/posts/stagnation-is-the-worst-decision/)
+- [Proactive vs Reactive Decisions: 4 Quadrants Framework](/posts/four-quadrants-of-decision-making/)
 
 ---
 
