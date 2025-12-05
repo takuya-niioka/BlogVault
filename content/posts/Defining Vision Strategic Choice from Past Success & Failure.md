@@ -267,7 +267,7 @@ Most importantly, these companies had clear visions. "What to win with" was clea
 
 ---
 
-**💭 Which pattern is your project following?**
+**Which pattern is your project following?**
 
 Try self-diagnosis with these questions:
 
@@ -281,7 +281,7 @@ Conversely, how to approach the success pattern? The next section explains that 
 
 ---
 
-## 📌 Three Principles of Vision Definition
+## Three Principles of Vision Definition
 
 We've seen failure and success patterns. From these, we can extract three principles of vision definition.
 
