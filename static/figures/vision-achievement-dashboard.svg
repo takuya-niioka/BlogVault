@@ -1,0 +1,96 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .section-title { font-family: Arial, sans-serif, sans-serif; font-size: 18px; font-weight: bold; fill: #34495e; }
+      .metric-label { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #555; }
+      .metric-value { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #2c3e50; font-weight: bold; }
+      .status-good { fill: #27ae60; }
+      .status-warning { fill: #f39c12; }
+      .status-critical { fill: #e74c3c; }
+      .bar-bg { fill: #ecf0f1; }
+      .bar-fill { fill: #3498db; }
+      .bar-fill-good { fill: #27ae60; }
+      .bar-fill-warning { fill: #f39c12; }
+      .bar-fill-critical { fill: #e74c3c; }
+      .card-bg { fill: #ffffff; stroke: #bdc3c7; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="40" class="title" text-anchor="middle">ビジョン達成状況（2025年Q4）</text>
+
+  <!-- Card 1: 全ての運転者 -->
+  <rect x="40" y="70" width="720" height="100" class="card-bg" rx="8"/>
+  <text x="60" y="95" class="section-title">「全ての運転者」</text>
+
+  <!-- 普及率 -->
+  <text x="80" y="120" class="metric-label">普及率: 45% / 目標60%</text>
+  <rect x="300" y="105" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="105" width="300" height="20" class="bar-fill-warning" rx="10"/>
+  <text x="710" y="120" class="metric-value">75%</text>
+
+  <!-- 対応車種 -->
+  <text x="80" y="155" class="metric-label">対応車種: 8車種 / 目標12車種</text>
+  <rect x="300" y="140" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="140" width="267" height="20" class="bar-fill-warning" rx="10"/>
+  <text x="710" y="155" class="metric-value">67%</text>
+
+  <!-- Card 2: 見えない形で -->
+  <rect x="40" y="190" width="720" height="100" class="card-bg" rx="8"/>
+  <text x="60" y="215" class="section-title">「見えない形で」</text>
+
+  <!-- 誤警報率 -->
+  <text x="80" y="240" class="metric-label">誤警報率: 0.08% / 目標0.1%以下</text>
+  <rect x="300" y="225" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="225" width="400" height="20" class="bar-fill-good" rx="10"/>
+  <text x="710" y="240" class="metric-value status-good">達成</text>
+
+  <!-- ユーザー満足度 -->
+  <text x="80" y="275" class="metric-label">ユーザー満足度: 4.2 / 目標4.5</text>
+  <rect x="300" y="260" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="260" width="373" height="20" class="bar-fill-good" rx="10"/>
+  <text x="710" y="275" class="metric-value">93%</text>
+
+  <!-- Card 3: 守り続ける -->
+  <rect x="40" y="310" width="720" height="100" class="card-bg" rx="8"/>
+  <text x="60" y="335" class="section-title">「守り続ける」</text>
+
+  <!-- 稼働率 -->
+  <text x="80" y="360" class="metric-label">稼働率: 99.97% / 目標99.99%</text>
+  <rect x="300" y="345" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="345" width="396" height="20" class="bar-fill-good" rx="10"/>
+  <text x="710" y="360" class="metric-value">99%</text>
+
+  <!-- 事故削減率 -->
+  <text x="80" y="395" class="metric-label">事故削減率: 28% / 目標30%</text>
+  <rect x="300" y="380" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="380" width="373" height="20" class="bar-fill-good" rx="10"/>
+  <text x="710" y="395" class="metric-value">93%</text>
+
+  <!-- Card 4: 絶対に失敗しない -->
+  <rect x="40" y="430" width="720" height="100" class="card-bg" rx="8"/>
+  <text x="60" y="455" class="section-title">「絶対に失敗しない」</text>
+
+  <!-- 重大事故 -->
+  <text x="80" y="480" class="metric-label">重大事故: 0件</text>
+  <rect x="300" y="465" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="465" width="400" height="20" class="bar-fill-good" rx="10"/>
+  <text x="710" y="480" class="metric-value status-good">達成</text>
+
+  <!-- ソフトウェア不具合 -->
+  <text x="80" y="515" class="metric-label">ソフトウェア不具合: 2件 / 目標0件</text>
+  <rect x="300" y="500" width="400" height="20" class="bar-bg" rx="10"/>
+  <rect x="300" y="500" width="267" height="20" class="bar-fill-critical" rx="10"/>
+  <text x="710" y="515" class="metric-value status-critical">要改善</text>
+
+  <!-- Legend -->
+  <rect x="40" y="550" width="20" height="20" class="bar-fill-good" rx="3"/>
+  <text x="70" y="565" class="metric-label">達成/良好</text>
+
+  <rect x="200" y="550" width="20" height="20" class="bar-fill-warning" rx="3"/>
+  <text x="230" y="565" class="metric-label">進行中</text>
+
+  <rect x="350" y="550" width="20" height="20" class="bar-fill-critical" rx="3"/>
+  <text x="380" y="565" class="metric-label">要改善</text>
+</svg>

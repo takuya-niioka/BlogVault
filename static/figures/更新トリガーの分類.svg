@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- タイトル -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+    ビジョン更新の3つのトリガー
+  </text>
+
+  <!-- 中央のビジョン -->
+  <circle cx="400" cy="300" r="80" fill="#34495E" stroke="#2C3E50" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    ビジョン
+  </text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    定期的に
+  </text>
+  <text x="400" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    見直す
+  </text>
+
+  <!-- トリガー1：時間ベース（上） -->
+  <circle cx="400" cy="120" r="70" fill="#3498DB" stroke="#2980B9" stroke-width="3"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    時間ベース
+  </text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    年次（必須）
+  </text>
+  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    四半期
+  </text>
+
+  <!-- 矢印：時間ベース → ビジョン -->
+  <path d="M 400 190 L 400 220" stroke="#3498DB" stroke-width="3" fill="none" marker-end="url(#arrow1)"/>
+
+  <!-- トリガー2：イベントベース（左下） -->
+  <circle cx="220" cy="450" r="70" fill="#E74C3C" stroke="#C0392B" stroke-width="3"/>
+  <text x="220" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    イベント
+  </text>
+  <text x="220" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    ベース
+  </text>
+  <text x="220" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    市場変化
+  </text>
+  <text x="220" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    競合革新
+  </text>
+
+  <!-- 矢印：イベントベース → ビジョン -->
+  <path d="M 275 410 L 345 335" stroke="#E74C3C" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+
+  <!-- トリガー3：指標ベース（右下） -->
+  <circle cx="580" cy="450" r="70" fill="#2ECC71" stroke="#27AE60" stroke-width="3"/>
+  <text x="580" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    指標ベース
+  </text>
+  <text x="580" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    KPI未達
+  </text>
+  <text x="580" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    満足度低下
+  </text>
+  <text x="580" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    3四半期連続
+  </text>
+
+  <!-- 矢印：指標ベース → ビジョン -->
+  <path d="M 525 410 L 455 335" stroke="#2ECC71" stroke-width="3" fill="none" marker-end="url(#arrow3)"/>
+
+  <!-- 矢印の定義 -->
+  <defs>
+    <marker id="arrow1" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="0 0, 10 5, 0 10" fill="#3498DB" />
+    </marker>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="0 0, 10 5, 0 10" fill="#E74C3C" />
+    </marker>
+    <marker id="arrow3" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="0 0, 10 5, 0 10" fill="#2ECC71" />
+    </marker>
+  </defs>
+
+  <!-- 説明文 -->
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-style="italic" fill="#7F8C8D">
+    3つのトリガーで継続的にビジョンの鮮度をチェック
+  </text>
+</svg>

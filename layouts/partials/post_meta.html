@@ -1,0 +1,35 @@
+{{- $scratch := newScratch }}
+
+{{- /* 投稿日（publishDate）を優先、なければdateを使用 */}}
+{{- $publishDate := .PublishDate }}
+{{- if $publishDate.IsZero }}
+  {{- $publishDate = .Date }}
+{{- end }}
+
+{{- if not $publishDate.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='Published: %s'>Published: %s</span>" ($publishDate) ($publishDate | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- /* 更新日（lastmod）が投稿日と異なる場合のみ表示 */}}
+{{- if and (not .Lastmod.IsZero) (ne .Lastmod $publishDate) -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='Updated: %s'>Updated: %s</span>" (.Lastmod) (.Lastmod | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- if (.Param "ShowReadingTime") -}}
+{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+{{- with (partial "author.html" .) }}
+{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+{{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
+

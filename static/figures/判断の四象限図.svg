@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 880 600"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="判断の四象限図.svg"
+   width="880"
+   height="600"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.345"
+     inkscape:cx="472.11896"
+     inkscape:cy="319.33086"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs2">
+    <style
+       id="style1">
+      .axis { stroke: #34495e; stroke-width: 3; }
+      .axis-label { font-family: Meiryo UI; font-size: 16px; font-weight: bold; fill: #2c3e50; }
+      .axis-label-large { font-family: Meiryo UI; font-size: 18px; font-weight: bold; fill: #2c3e50; }
+      .quadrant-title { font-family: Meiryo UI; font-size: 28px; font-weight: bold; }
+      .quadrant-subtitle { font-family: Meiryo UI; font-size: 16px; }
+      .quadrant-badge { font-family: Meiryo UI; font-size: 18px; font-weight: bold; }
+
+      .q1-bg { fill: #27ae60; opacity: 0.15; }
+      .q1-text { fill: #27ae60; }
+      .q1-badge { fill: #27ae60; }
+
+      .q2-bg { fill: #3498db; opacity: 0.15; }
+      .q2-text { fill: #2980b9; }
+      .q2-badge { fill: #2980b9; }
+
+      .q3-bg { fill: #e74c3c; opacity: 0.15; }
+      .q3-text { fill: #c0392b; }
+      .q3-badge { fill: #c0392b; }
+
+      .q4-bg { fill: #f39c12; opacity: 0.15; }
+      .q4-text { fill: #d68910; }
+      .q4-badge { fill: #d68910; }
+    </style>
+    <!-- Gradient for best quadrant -->
+    <linearGradient
+       id="bestGradient"
+       x1="338.06171"
+       y1="59.160797"
+       x2="633.86566"
+       y2="354.96478"
+       gradientTransform="matrix(1.183216,0,0,0.84515425,43.35316,0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#27ae60;stop-opacity:0.2"
+         id="stop1" />
+      <stop
+         offset="100%"
+         style="stop-color:#27ae60;stop-opacity:0.05"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.998311"
+     id="rect1"
+     width="878.14941"
+     height="596.17773"
+     x="-41.353161"
+     y="1.6673901"
+     transform="translate(43.35316)" />
+  <!-- Background -->
+  <!-- Quadrant backgrounds -->
+  <!-- Q2: Top-left (Immediate Action) -->
+  <rect
+     x="93.353157"
+     y="50"
+     width="350"
+     height="250"
+     class="q2-bg"
+     id="rect3" />
+  <!-- Q1: Top-right (Implemented) - BEST -->
+  <rect
+     x="443.35315"
+     y="50"
+     width="350"
+     height="250"
+     fill="url(#bestGradient)"
+     id="rect4"
+     style="fill:url(#bestGradient)" />
+  <rect
+     x="443.35315"
+     y="50"
+     width="350"
+     height="250"
+     class="q1-bg"
+     id="rect5" />
+  <!-- Q3: Bottom-left (Worst) -->
+  <rect
+     x="93.353157"
+     y="300"
+     width="350"
+     height="250"
+     class="q3-bg"
+     id="rect6" />
+  <!-- Q4: Bottom-right (Prepared Reaction) -->
+  <rect
+     x="443.35315"
+     y="300"
+     width="350"
+     height="250"
+     class="q4-bg"
+     id="rect7" />
+  <!-- Axes -->
+  <line
+     x1="443.35315"
+     y1="50"
+     x2="443.35315"
+     y2="550"
+     class="axis"
+     id="line7" />
+  <line
+     x1="93.353157"
+     y1="300"
+     x2="793.35315"
+     y2="300"
+     class="axis"
+     id="line8" />
+  <!-- Axis labels -->
+  <text
+     x="443.35315"
+     y="30"
+     text-anchor="middle"
+     class="axis-label-large"
+     id="text8">判断基準が明確</text>
+  <text
+     x="443.35315"
+     y="580"
+     text-anchor="middle"
+     class="axis-label-large"
+     id="text9">判断基準が不明確</text>
+  <text
+     x="68.790657"
+     y="310.5625"
+     text-anchor="middle"
+     class="axis-label"
+     id="text10"
+     style="white-space:pre;inline-size:94.1069;display:inline"
+     transform="translate(-21.977738,-17.086223)"
+     xml:space="preserve"><tspan
+       x="68.790657"
+       y="310.5625"
+       id="tspan5">タイミング未</tspan><tspan
+       x="68.790657"
+       y="330.5625"
+       id="tspan6">設計</tspan></text>
+  <!-- Q1: Top-right (BEST) -->
+  <g
+     id="q1"
+     transform="translate(43.35316)">
+    <text
+       x="575"
+       y="130"
+       text-anchor="middle"
+       class="quadrant-title q1-text"
+       id="text12">実装された先手</text>
+    <text
+       x="575"
+       y="160"
+       text-anchor="middle"
+       class="quadrant-subtitle q1-text"
+       id="text13">（第1象限）</text>
+    <!-- Badge -->
+    <rect
+       x="515"
+       y="175"
+       width="120"
+       height="35"
+       rx="18"
+       class="q1-badge"
+       opacity="0.2"
+       id="rect13" />
+    <text
+       x="575"
+       y="198"
+       text-anchor="middle"
+       class="quadrant-badge q1-badge"
+       id="text14">★ 最強 ★</text>
+    <text
+       x="575"
+       y="235"
+       text-anchor="middle"
+       style="font-size:14px;font-family:Arial;fill:#27ae60"
+       id="text15">組織的・計画的に先手</text>
+  </g>
+  <!-- Q2: Top-left -->
+  <g
+     id="q2"
+     transform="translate(43.35316)">
+    <text
+       x="225"
+       y="130"
+       text-anchor="middle"
+       class="quadrant-title q2-text"
+       id="text16">即断の先手</text>
+    <text
+       x="225"
+       y="160"
+       text-anchor="middle"
+       class="quadrant-subtitle q2-text"
+       id="text17">（第2象限）</text>
+    <!-- Badge -->
+    <rect
+       x="170"
+       y="175"
+       width="110"
+       height="35"
+       rx="18"
+       class="q2-badge"
+       opacity="0.2"
+       id="rect17" />
+    <text
+       x="225"
+       y="198"
+       text-anchor="middle"
+       class="quadrant-badge q2-badge"
+       id="text18">能動的</text>
+    <text
+       x="225"
+       y="235"
+       text-anchor="middle"
+       style="font-size:14px;font-family:Arial;fill:#2980b9"
+       id="text19">個人の直感に依存</text>
+  </g>
+  <!-- Q3: Bottom-left (WORST) -->
+  <g
+     id="q3"
+     transform="translate(43.35316)">
+    <text
+       x="225"
+       y="385"
+       text-anchor="middle"
+       class="quadrant-title q3-text"
+       id="text20">思いつき後手</text>
+    <text
+       x="225"
+       y="415"
+       text-anchor="middle"
+       class="quadrant-subtitle q3-text"
+       id="text21">（第3象限）</text>
+    <!-- Badge -->
+    <rect
+       x="170"
+       y="430"
+       width="110"
+       height="35"
+       rx="18"
+       class="q3-badge"
+       opacity="0.2"
+       id="rect21" />
+    <text
+       x="225"
+       y="453"
+       text-anchor="middle"
+       class="quadrant-badge q3-badge"
+       id="text22">最弱</text>
+    <text
+       x="225"
+       y="490"
+       text-anchor="middle"
+       style="font-size:14px;font-family:Arial;fill:#c0392b"
+       id="text23">場当たり的対応</text>
+  </g>
+  <!-- Q4: Bottom-right -->
+  <g
+     id="q4"
+     transform="translate(43.35316)">
+    <text
+       x="575"
+       y="385"
+       text-anchor="middle"
+       class="quadrant-title q4-text"
+       id="text24">準備された反応</text>
+    <text
+       x="575"
+       y="415"
+       text-anchor="middle"
+       class="quadrant-subtitle q4-text"
+       id="text25">（第4象限）</text>
+    <!-- Badge -->
+    <rect
+       x="515"
+       y="430"
+       width="120"
+       height="35"
+       rx="18"
+       class="q4-badge"
+       opacity="0.2"
+       id="rect25" />
+    <text
+       x="575"
+       y="453"
+       text-anchor="middle"
+       class="quadrant-badge q4-badge"
+       id="text26">後追い</text>
+    <text
+       x="575"
+       y="490"
+       text-anchor="middle"
+       style="font-size:14px;font-family:Arial;fill:#d68910"
+       id="text27">計画的だが受動的</text>
+  </g>
+  <!-- Arrows pointing to best quadrant -->
+  <!-- Arrow markers -->
+  <defs
+     id="defs28">
+    <marker
+       id="arrowGreen"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="0,6 0,0 10,3 "
+         fill="#27ae60"
+         id="polygon28" />
+    </marker>
+  </defs>
+  <text
+     x="68.790657"
+     y="310.5625"
+     text-anchor="middle"
+     class="axis-label"
+     id="text28"
+     style="white-space:pre;inline-size:94.1069;display:inline"
+     transform="translate(764.51427,-17.086223)"
+     xml:space="preserve"><tspan
+       x="68.790657"
+       y="310.5625"
+       id="tspan7">タイミング設</tspan><tspan
+       x="68.790657"
+       y="330.5625"
+       id="tspan8">計済み</tspan></text>
+</svg>

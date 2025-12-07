@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 600 350"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="継続的改善の文化.svg"
+   width="600"
+   height="350"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2680782"
+     inkscape:cx="341.46159"
+     inkscape:cy="207.00616"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .title { font-family: Meiryo UI; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .pillar-title { font-family: Meiryo UI; font-size: 18px; font-weight: bold; fill: #ffffff; }
+      .pillar-text { font-family: Meiryo UI; font-size: 13px; fill: #ffffff; }
+      .foundation-text { font-family: Meiryo UI; font-size: 14px; fill: #2c3e50; font-weight: bold; }
+      .quote-text { font-family: Meiryo UI; font-size: 12px; fill: #7f8c8d; font-style: italic; }
+      .pillar-1 { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .pillar-2 { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .pillar-3 { fill: #27ae60; stroke: #229954; stroke-width: 2; }
+      .foundation { fill: #34495e; stroke: #2c3e50; stroke-width: 3; }
+      .icon { fill: #ffffff; }
+    </style>
+  </defs>
+  <!-- Title -->
+  <text
+     x="290.21423"
+     y="51.19471"
+     class="title"
+     text-anchor="middle"
+     id="text1">継続的改善の文化を支える3つの柱</text>
+  <!-- Foundation -->
+  <!-- Pillar 1: 失敗を歓迎する文化 -->
+  <rect
+     x="7.0264568"
+     y="70.617516"
+     width="190"
+     height="250"
+     class="pillar-1"
+     rx="8"
+     id="rect2" />
+  <!-- Icon: X mark turning into checkmark -->
+  <text
+     x="102.02646"
+     y="101.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text3">失敗を歓迎する</text>
+  <text
+     x="102.02646"
+     y="121.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text4">文化</text>
+  <text
+     x="22.026457"
+     y="151.61752"
+     class="pillar-text"
+     id="text5">✓ 「このビジョンは</text>
+  <text
+     x="32.026459"
+     y="171.61752"
+     class="pillar-text"
+     id="text6">間違っていた」と</text>
+  <text
+     x="32.026459"
+     y="191.61752"
+     class="pillar-text"
+     id="text7">言える雰囲気</text>
+  <text
+     x="22.026457"
+     y="216.61752"
+     class="pillar-text"
+     id="text8">✓ 失敗から学ぶ姿勢</text>
+  <text
+     x="22.026457"
+     y="241.61752"
+     class="pillar-text"
+     id="text9">✓ 早期の方向転換を</text>
+  <text
+     x="32.026459"
+     y="261.61752"
+     class="pillar-text"
+     id="text10">評価</text>
+  <!-- Pillar 2: 学習する組織 -->
+  <rect
+     x="206.79143"
+     y="70.617516"
+     width="190"
+     height="250"
+     class="pillar-2"
+     rx="8"
+     id="rect10" />
+  <!-- Icon: Circular arrows (learning cycle) -->
+  <text
+     x="301.79141"
+     y="101.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text11">学習する</text>
+  <text
+     x="301.79141"
+     y="121.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text12">組織</text>
+  <text
+     x="221.79143"
+     y="151.61752"
+     class="pillar-text"
+     id="text13">✓ 環境変化を</text>
+  <text
+     x="231.79143"
+     y="171.61752"
+     class="pillar-text"
+     id="text14">常に観察</text>
+  <text
+     x="221.79143"
+     y="201.61752"
+     class="pillar-text"
+     id="text15">✓ 実験と検証を</text>
+  <text
+     x="231.79143"
+     y="221.61752"
+     class="pillar-text"
+     id="text16">繰り返す</text>
+  <text
+     x="221.79143"
+     y="251.61752"
+     class="pillar-text"
+     id="text17">✓ 仮説を持って動く</text>
+  <!-- Pillar 3: 謙虚さと勇気 -->
+  <rect
+     x="404.97919"
+     y="70.617516"
+     width="190"
+     height="250"
+     class="pillar-3"
+     rx="8"
+     id="rect17" />
+  <!-- Icon: Shield (courage) with heart (humility) -->
+  <text
+     x="499.97916"
+     y="101.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text18">謙虚さと</text>
+  <text
+     x="499.97916"
+     y="121.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text19">勇気</text>
+  <text
+     x="419.97919"
+     y="151.61752"
+     class="pillar-text"
+     id="text20">✓ 自分たちの判断を</text>
+  <text
+     x="429.97919"
+     y="171.61752"
+     class="pillar-text"
+     id="text21">疑う謙虚さ</text>
+  <text
+     x="419.97919"
+     y="201.61752"
+     class="pillar-text"
+     id="text22">✓ 必要なら</text>
+  <text
+     x="429.97919"
+     y="221.61752"
+     class="pillar-text"
+     id="text23">方向転換する勇気</text>
+  <!-- Quote at bottom -->
+</svg>

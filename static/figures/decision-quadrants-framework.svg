@@ -1,0 +1,43 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="600" fill="#f8f9fa"/>
+
+  <!-- Axes -->
+  <line x1="400" y1="50" x2="400" y2="550" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="50" y1="300" x2="750" y2="300" stroke="#2c3e50" stroke-width="3"/>
+
+  <!-- Quadrant background colors -->
+  <rect x="50" y="50" width="350" height="250" fill="#e0e0e0" opacity="0.3"/>
+  <rect x="400" y="50" width="350" height="250" fill="#1976d2" opacity="0.15"/>
+  <rect x="400" y="300" width="350" height="250" fill="#e0e0e0" opacity="0.3"/>
+  <rect x="50" y="300" width="350" height="250" fill="#e0e0e0" opacity="0.3"/>
+
+  <!-- Axis labels -->
+  <text x="400" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">Clear Decision Criteria</text>
+  <text x="400" y="580" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">Unclear Decision Criteria</text>
+  <text x="30" y="305" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50" transform="rotate(-90 30 305)">No Timing Design</text>
+  <text x="770" y="305" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50" transform="rotate(-90 770 305)">Timing Designed</text>
+
+  <!-- Quadrant 2 (top-left) -->
+  <text x="225" y="160" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Spontaneous</text>
+  <text x="225" y="195" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Proactive</text>
+  <text x="225" y="230" text-anchor="middle" font-size="16" fill="#9e9e9e">(Quadrant 2)</text>
+
+  <!-- Quadrant 1 (top-right) -->
+  <text x="575" y="135" text-anchor="middle" font-size="32" font-weight="bold" fill="#1565c0">Systematic</text>
+  <text x="575" y="170" text-anchor="middle" font-size="32" font-weight="bold" fill="#1565c0">Proactive</text>
+  <text x="575" y="205" text-anchor="middle" font-size="16" fill="#1976d2">(Quadrant 1)</text>
+  <text x="575" y="240" text-anchor="middle" font-size="20" fill="#0d47a1" font-weight="bold">【STRONGEST】</text>
+  <text x="575" y="270" text-anchor="middle" font-size="17" fill="#1565c0" font-style="italic">Win by System</text>
+
+  <!-- Quadrant 4 (bottom-right) -->
+  <text x="575" y="400" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Opportunistic</text>
+  <text x="575" y="435" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Reactive</text>
+  <text x="575" y="470" text-anchor="middle" font-size="16" fill="#9e9e9e">(Quadrant 4)</text>
+
+  <!-- Quadrant 3 (bottom-left) -->
+  <text x="225" y="390" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Ad-hoc</text>
+  <text x="225" y="425" text-anchor="middle" font-size="28" font-weight="bold" fill="#757575">Reactive</text>
+  <text x="225" y="460" text-anchor="middle" font-size="16" fill="#9e9e9e">(Quadrant 3)</text>
+  <text x="225" y="495" text-anchor="middle" font-size="18" fill="#757575" font-weight="bold">【WEAKEST】</text>
+</svg>

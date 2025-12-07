@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 700 500"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="判断タイミングの3つのトリガー.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.614"
+     inkscape:cx="350.06196"
+     inkscape:cy="250"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .title { font-family: Meiryo UI; font-size: 20px; font-weight: bold; fill: #2c3e50; }
+      .header-text { font-family: Meiryo UI; font-size: 14px; font-weight: bold; fill: #2c3e50; }
+      .row-header { font-family: Meiryo UI; font-size: 16px; font-weight: bold; fill: #ffffff; }
+      .row-subtitle { font-family: Meiryo UI; font-size: 10px; fill: #ffffff; font-style: italic; }
+      .cell-text { font-family: Meiryo UI; font-size: 13.3333px; fill: #2c3e50; }
+      .example-text { font-family: Meiryo UI; font-size: 13.3333px; fill: #34495e; }
+      .header-bg { fill: #ecf0f1; stroke: #2c3e50; stroke-width: 2; }
+      .row-header-time { fill: #3498db; }
+      .row-header-number { fill: #e74c3c; }
+      .row-header-event { fill: #27ae60; }
+      .cell-bg { fill: #ffffff; stroke: #bdc3c7; stroke-width: 1.5; }
+      .table-border { fill: none; stroke: #2c3e50; stroke-width: 2.5; }
+    </style>
+  </defs>
+  <!-- Title -->
+  <text
+     x="347.5217"
+     y="33.57621"
+     class="title"
+     text-anchor="middle"
+     id="text1">判断タイミングの3つのトリガー</text>
+  <!-- Table border -->
+  <rect
+     x="41.239159"
+     y="53.760841"
+     width="620"
+     height="420"
+     class="table-border"
+     rx="6"
+     id="rect1" />
+  <!-- Header row -->
+  <rect
+     x="41.239159"
+     y="53.760841"
+     width="140"
+     height="45"
+     class="header-bg"
+     rx="6"
+     id="rect2" />
+  <rect
+     x="181.23915"
+     y="53.760841"
+     width="220"
+     height="45"
+     class="header-bg"
+     id="rect3" />
+  <rect
+     x="401.23917"
+     y="53.760841"
+     width="260"
+     height="45"
+     class="header-bg"
+     rx="0 6 0 0"
+     id="rect4" />
+  <text
+     x="111.23916"
+     y="80.760841"
+     class="header-text"
+     text-anchor="middle"
+     id="text4">トリガー種別</text>
+  <text
+     x="291.23917"
+     y="80.760841"
+     class="header-text"
+     text-anchor="middle"
+     id="text5">特徴</text>
+  <text
+     x="531.23914"
+     y="80.760841"
+     class="header-text"
+     text-anchor="middle"
+     id="text6">具体例</text>
+  <!-- Row 1: Time-based -->
+  <rect
+     x="41.239159"
+     y="98.760841"
+     width="140"
+     height="115"
+     class="row-header-time"
+     id="rect6" />
+  <rect
+     x="181.23915"
+     y="98.760841"
+     width="220"
+     height="115"
+     class="cell-bg"
+     id="rect7" />
+  <rect
+     x="401.23917"
+     y="98.760841"
+     width="260"
+     height="115"
+     class="cell-bg"
+     id="rect8" />
+  <text
+     x="111.23916"
+     y="140.76085"
+     class="row-header"
+     text-anchor="middle"
+     id="text8">1. 時間ベース</text>
+  <text
+     x="111.23916"
+     y="158.76085"
+     class="row-subtitle"
+     text-anchor="middle"
+     id="text9">Time-based</text>
+  <text
+     x="196.23915"
+     y="121.76084"
+     class="cell-text"
+     id="text10"
+     style="font-size:13.3333px">最もシンプルで確実</text>
+  <text
+     x="196.23915"
+     y="136.76085"
+     class="cell-text"
+     id="text11">カレンダーに登録し</text>
+  <text
+     x="196.23915"
+     y="151.76085"
+     class="cell-text"
+     id="text12">自動的に発動</text>
+  <text
+     x="196.23915"
+     y="175.76085"
+     class="cell-text"
+     style="font-weight:bold"
+     id="text13">→ 計画的な見直し</text>
+  <text
+     x="416.23917"
+     y="116.76084"
+     class="example-text"
+     style="font-weight:bold"
+     id="text14">年次レビュー（1月）</text>
+  <text
+     x="424.23917"
+     y="133.76085"
+     class="example-text"
+     id="text15">• ビジョン妥当性確認</text>
+  <text
+     x="416.23917"
+     y="150.76085"
+     class="example-text"
+     style="font-weight:bold"
+     id="text16">四半期レビュー</text>
+  <text
+     x="424.23917"
+     y="167.76085"
+     class="example-text"
+     id="text17">• 技術トレンド・市場分析</text>
+  <text
+     x="416.23917"
+     y="184.76085"
+     class="example-text"
+     style="font-weight:bold"
+     id="text18">月次確認（第1営業日）</text>
+  <text
+     x="424.23917"
+     y="201.76085"
+     class="example-text"
+     id="text19">• 品質指標・進捗確認</text>
+  <!-- Row 2: Number-based -->
+  <rect
+     x="41.239159"
+     y="213.76085"
+     width="140"
+     height="115"
+     class="row-header-number"
+     id="rect19" />
+  <rect
+     x="181.23915"
+     y="213.76085"
+     width="220"
+     height="115"
+     class="cell-bg"
+     id="rect20" />
+  <rect
+     x="401.23917"
+     y="213.76085"
+     width="260"
+     height="115"
+     class="cell-bg"
+     id="rect21" />
+  <text
+     x="111.23916"
+     y="255.76085"
+     class="row-header"
+     text-anchor="middle"
+     id="text21">2. 数値ベース</text>
+  <text
+     x="111.23916"
+     y="273.76083"
+     class="row-subtitle"
+     text-anchor="middle"
+     id="text22">Metric-based</text>
+  <text
+     x="196.23915"
+     y="236.76085"
+     class="cell-text"
+     id="text23">客観的で測定可能</text>
+  <text
+     x="196.23915"
+     y="251.76085"
+     class="cell-text"
+     id="text24">ダッシュボードで</text>
+  <text
+     x="196.23915"
+     y="266.76083"
+     class="cell-text"
+     id="text25">常時監視</text>
+  <text
+     x="196.23915"
+     y="290.76083"
+     class="cell-text"
+     style="font-weight:bold"
+     id="text26">→ 異常の早期検知</text>
+  <text
+     x="416.23917"
+     y="231.76085"
+     class="example-text"
+     style="font-weight:bold"
+     id="text27">品質指標</text>
+  <text
+     x="424.23917"
+     y="248.76085"
+     class="example-text"
+     id="text28">• バグ率5%超→改善週間</text>
+  <text
+     x="416.23917"
+     y="265.76083"
+     class="example-text"
+     style="font-weight:bold"
+     id="text29">コスト指標</text>
+  <text
+     x="424.23917"
+     y="282.76083"
+     class="example-text"
+     id="text30">• 単価$500以下→量産化</text>
+  <text
+     x="416.23917"
+     y="299.76083"
+     class="example-text"
+     style="font-weight:bold"
+     id="text31">進捗指標</text>
+  <text
+     x="424.23917"
+     y="316.76083"
+     class="example-text"
+     id="text32">• 遅延2週超→対策会議</text>
+  <!-- Row 3: Event-based -->
+  <rect
+     x="41.239159"
+     y="328.76083"
+     width="140"
+     height="145"
+     class="row-header-event"
+     rx="0 0 0 6"
+     id="rect32" />
+  <rect
+     x="181.23915"
+     y="328.76083"
+     width="220"
+     height="145"
+     class="cell-bg"
+     id="rect33" />
+  <rect
+     x="401.23917"
+     y="328.76083"
+     width="260"
+     height="145"
+     class="cell-bg"
+     rx="0 0 6 0"
+     id="rect34" />
+  <text
+     x="111.23916"
+     y="383.76083"
+     class="row-header"
+     text-anchor="middle"
+     id="text34">3. 環境変化</text>
+  <text
+     x="111.23916"
+     y="399.76083"
+     class="row-header"
+     text-anchor="middle"
+     id="text35">ベース</text>
+  <text
+     x="111.23916"
+     y="414.76083"
+     class="row-subtitle"
+     text-anchor="middle"
+     id="text36">Event-based</text>
+  <text
+     x="196.23915"
+     y="356.76083"
+     class="cell-text"
+     id="text37">外部イベントに対応</text>
+  <text
+     x="196.23915"
+     y="371.76083"
+     class="cell-text"
+     id="text38">情報源を定義し</text>
+  <text
+     x="196.23915"
+     y="386.76083"
+     class="cell-text"
+     id="text39">継続的に監視</text>
+  <text
+     x="196.23915"
+     y="410.76083"
+     class="cell-text"
+     style="font-weight:bold"
+     id="text40">→ 環境変化への</text>
+  <text
+     x="206.23915"
+     y="425.76083"
+     class="cell-text"
+     style="font-weight:bold"
+     id="text41">迅速な対応</text>
+  <text
+     x="416.23917"
+     y="346.76083"
+     class="example-text"
+     style="font-weight:bold"
+     id="text42">新技術登場</text>
+  <text
+     x="424.23917"
+     y="363.76083"
+     class="example-text"
+     id="text43">• 2週間で評価・採用判断</text>
+  <text
+     x="416.23917"
+     y="380.76083"
+     class="example-text"
+     style="font-weight:bold"
+     id="text44">規制変更</text>
+  <text
+     x="424.23917"
+     y="397.76083"
+     class="example-text"
+     id="text45">• 影響分析と対応計画</text>
+  <text
+     x="416.23917"
+     y="414.76083"
+     class="example-text"
+     style="font-weight:bold"
+     id="text46">競合の動き</text>
+  <text
+     x="424.23917"
+     y="431.76083"
+     class="example-text"
+     id="text47">• 画期的技術→1ヶ月評価</text>
+  <!-- Bottom note -->
+</svg>
