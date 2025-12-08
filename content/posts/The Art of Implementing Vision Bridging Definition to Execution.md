@@ -62,7 +62,7 @@ Without this concretization process, visions end up as merely "nice-sounding wor
 
 There are three walls that prevent vision implementation.
 
-![three-barriers-to-vision-implementation](figures/three-barriers-to-vision-implementation.svg)
+![three-barriers-to-vision-implementation](/figures/three-barriers-to-vision-implementation.svg)
 
 **Wall 1: The Organizational Wall**
 
@@ -87,7 +87,7 @@ This article explains specific techniques for overcoming these three walls and i
 
 As shown in [Proactive vs Reactive Decisions: 4 Quadrants Framework](/posts/four-quadrants-of-decision-making/), decisions can be divided into four categories based on "whether criteria are clear" and "whether timing is determined."
 
-![decision-making-four-quadrants](figures/decision-making-four-quadrants.svg)
+![decision-making-four-quadrants](/figures/decision-making-four-quadrants.svg)
 
 The critical difference is the vertical axis—the **presence or absence of decision criteria (vision)**. However, **the horizontal axis of decision timing is also important**.
 Even with a vision, that alone keeps you in the "upper left (immediate initiative)." It depends on individual snap judgments and is difficult to sustain organizationally.
@@ -111,14 +111,14 @@ Decision timing has three triggers. Design by combining the following three:
 - **Metric-based**: Objective and measurable, monitored via dashboard
 - **Environment change-based**: Responds to external events, defines information sources and monitors continuously
 
-![decision-timing-three-triggers](figures/decision-timing-three-triggers.svg)
+![decision-timing-three-triggers](/figures/decision-timing-three-triggers.svg)
 
 ### Process for Decomposing Vision into Decision Points
 
 So how exactly do you decompose a vision into decision points?
 Proceed through the five steps shown below.
 
-![vision-decomposition-flow](figures/vision-decomposition-flow.svg)
+![vision-decomposition-flow](/figures/vision-decomposition-flow.svg)
 
 **Step 1: Decompose Vision into Elements**
 
@@ -196,7 +196,7 @@ Even with designed decision timing, implementation won't progress unless the org
 
 ### Three Levels of Permeation
 
-![three-levels-of-penetration](figures/three-levels-of-penetration.svg)
+![three-levels-of-penetration](/figures/three-levels-of-penetration.svg)
 
 Vision permeation has three levels.
 
@@ -268,7 +268,7 @@ By applying the vision to concrete situations like this, team members learn how 
 
 Another way to promote vision permeation is to visualize progress. For example, visualize metrics against targets in this format:
 
-![vision-achievement-dashboard](figures/vision-achievement-dashboard.svg)
+![vision-achievement-dashboard](/figures/vision-achievement-dashboard.svg)
 
 Update this dashboard monthly and share it with the entire team. When progress is visible, motivation increases, and when issues are visible, countermeasures can be taken.
 
@@ -282,7 +282,7 @@ Measurement is essential for implementing a vision.
 
 ### Four Quadrants of KPI Design
 
-![kpi-design-four-quadrants](figures/kpi-design-four-quadrants.svg)
+![kpi-design-four-quadrants](/figures/kpi-design-four-quadrants.svg)
 
 Combine metrics in the four quadrants shown in the diagram. Leading indicators for early warning, lagging indicators for result confirmation. Quantitative for objectivity, qualitative for capturing essence.
 
@@ -333,7 +333,7 @@ If even one of the three questions is "No," the vision needs review.
 When updating a vision, a careful process is necessary.
 The five steps shown in the diagram below enable careful vision scrutiny.
 
-![vision-update-process](figures/vision-update-process.svg)
+![vision-update-process](/figures/vision-update-process.svg)
 
 ### Culture of Continuous Improvement
 
@@ -341,7 +341,7 @@ Thus, rather than being done once a vision is decided, regularly checking freshn
 
 For this, the following three cultural elements are important:
 
-![continuous-improvement-culture](figures/continuous-improvement-culture.svg)
+![continuous-improvement-culture](/figures/continuous-improvement-culture.svg)
 
 **Are you checking the freshness of your vision and goals? Or do you believe "once decided, never change"?**
 

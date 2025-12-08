@@ -6,7 +6,7 @@ tags = ["decision-making", "leadership", "engineering-management", "risk-managem
 slug = "decision-making-under-uncertainty-70-percent-rule"
 description = "A practical framework for making better decisions in uncertain environments. Learn Amazon's 70% rule, One-Way vs Two-Way Door thinking, Pre-mortem Analysis, and other techniques to improve judgment in advanced technology development"
 publishDate = "2025-11-07T12:40:49+09:00"
-lastmod = "2025-12-08T23:58:38+09:00"
+lastmod = "2025-12-09T00:15:13+09:00"
 +++
 
 **[Disclaimer]**  
