@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 850 850"
    version="1.1"
@@ -78,7 +78,7 @@
      y="93"
      class="step-title"
      text-anchor="middle"
-     id="text2">Step 1: Current State Analysis</text>
+     id="text2">Step 1: Current Situation Analysis</text>
   <text
      x="315"
      y="115"
@@ -88,7 +88,7 @@
      x="315"
      y="130"
      class="step-content"
-     id="text4">• Competitive Analysis • Team Feedback</text>
+     id="text4">• Competitive analysis • Team feedback</text>
   <!-- Arrow -->
   <line
      x1="425"
@@ -113,17 +113,17 @@
      y="213"
      class="step-title"
      text-anchor="middle"
-     id="text5">Step 2: Problem Identification</text>
+     id="text5">Step 2: Identifying the Problem</text>
   <text
      x="315"
      y="235"
      class="step-content"
-     id="text6">• Problem with vision itself?</text>
+     id="text6">• Is it a problem with the vision itself?</text>
   <text
      x="315"
      y="250"
      class="step-content"
-     id="text7">• 実装の問題か? Environmental Changesへの適応不足か?</text>
+     id="text7">• Is it an implementation problem? Or insufficient adaptation to environmental changes?</text>
   <!-- Arrow -->
   <line
      x1="425"
@@ -148,13 +148,13 @@
      y="330"
      class="step-title"
      text-anchor="middle"
-     id="text8">Step 3: Option Evaluation</text>
+     id="text8">Step 3: Considering the Options</text>
   <text
      x="425"
      y="348"
      class="step-content"
      text-anchor="middle"
-     id="text9">Maintain / Adjust / Renew</text>
+     id="text9">Maintenance / Fine-tuning / Refresh</text>
   <!-- Options Branches -->
   <!-- Option A: Maintain -->
   <line
@@ -170,7 +170,7 @@
      x="193.5663"
      y="420.13965"
      class="arrow-label"
-     id="text10">Maintain</text>
+     id="text10">Maintenance</text>
   <rect
      x="30"
      y="470"
@@ -184,12 +184,12 @@
      y="490"
      class="option-title"
      text-anchor="middle"
-     id="text11">選択肢A：Maintain</text>
+     id="text11">Option A: Maintenance</text>
   <text
      x="62"
      y="506"
      class="step-content"
-     id="text12">• Improve implementation</text>
+     id="text12">• Improved implementation</text>
   <text
      x="62"
      y="523"
@@ -214,7 +214,7 @@
      x="440"
      y="420"
      class="arrow-label"
-     id="text15">Adjust</text>
+     id="text15">Fine-tuning</text>
   <rect
      x="324.99997"
      y="470"
@@ -228,12 +228,12 @@
      y="490"
      class="option-title"
      text-anchor="middle"
-     id="text16">選択肢B：Adjust</text>
+     id="text16">Option B: Fine-tuning</text>
   <text
      x="357"
      y="506"
      class="step-content"
-     id="text17">• 方向性はMaintain</text>
+     id="text17">• Maintain direction</text>
   <text
      x="357"
      y="523"
@@ -258,7 +258,7 @@
      x="630"
      y="419.96777"
      class="arrow-label"
-     id="text20">Renew</text>
+     id="text20">Refresh</text>
   <rect
      x="620"
      y="470"
@@ -272,12 +272,12 @@
      y="490"
      class="option-title"
      text-anchor="middle"
-     id="text21">選択肢C：Renew</text>
+     id="text21">Option C: Refresh</text>
   <text
      x="652"
      y="506"
      class="step-content"
-     id="text22">• Change direction</text>
+     id="text22">• Change of direction</text>
   <text
      x="652"
      y="523"
@@ -287,7 +287,7 @@
      x="652"
      y="540"
      class="step-content"
-     id="text24">• Fully re-implement</text>
+     id="text24">• Complete reimplementation</text>
   <!-- Arrows converging to Step 4 -->
   <line
      x1="130"
@@ -335,7 +335,7 @@
      x="283.77322"
      y="675.86743"
      class="step-content"
-     id="text27">• Don't wait for perfect info, decide quickly if Two-Way Door</text>
+     id="text27">• Don't wait for perfect information; if it's a Two-Way Door, decide quickly</text>
   <!-- Arrow -->
   <line
      x1="425"
@@ -365,12 +365,12 @@
      x="335"
      y="795"
      class="step-content"
-     id="text29">• Re-penetrate organization</text>
+     id="text29">• Re-infiltration into the organization</text>
   <text
      x="335"
      y="827.80042"
      class="step-content"
-     id="text30">• Review decision timing</text>
+     id="text30">• Review of decision timing</text>
   <!-- Culture Box (Bottom) -->
   <!-- Note -->
   <text
@@ -379,10 +379,10 @@
      class="arrow-label"
      text-anchor="middle"
      style="font-size:10px"
-     id="text36">※ Regularly executed in annual reviews, ad-hoc when events occur</text>
+     id="text36">* Executed regularly during annual reviews, executed as needed when events occur</text>
   <text
      x="335"
      y="811.41376"
      class="step-content"
-     id="text25">• Redesign KPIs</text>
+     id="text25">• KPI Redesign</text>
 </svg>

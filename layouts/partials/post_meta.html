@@ -11,8 +11,21 @@
 {{- end }}
 
 {{- /* 更新日（lastmod）が投稿日と異なる場合のみ表示 */}}
-{{- if and (not .Lastmod.IsZero) (ne .Lastmod $publishDate) -}}
-{{- $scratch.Add "meta" (slice (printf "<span title='Updated: %s'>Updated: %s</span>" (.Lastmod) (.Lastmod | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- /* lastmodがdateまたはpublishDateと同じ場合は表示しない */}}
+{{- $date := .Date }}
+{{- $lastmod := .Lastmod }}
+{{- $should_show_lastmod := false }}
+{{- if not $lastmod.IsZero -}}
+  {{- /* lastmodがpublishDateと異なる場合 */}}
+  {{- if ne $lastmod $publishDate -}}
+    {{- /* lastmodがdateと異なる場合 */}}
+    {{- if ne $lastmod $date -}}
+      {{- $should_show_lastmod = true }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if $should_show_lastmod -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='Updated: %s'>Updated: %s</span>" ($lastmod) ($lastmod | time.Format (default ":date_long" site.Params.DateFormat)))) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}

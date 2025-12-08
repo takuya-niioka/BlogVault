@@ -5,6 +5,8 @@ draft = false
 tags = ["decision-making", "leadership", "engineering-management", "risk-management", "product-development"]
 slug = "decision-making-under-uncertainty-70-percent-rule"
 description = "A practical framework for making better decisions in uncertain environments. Learn Amazon's 70% rule, One-Way vs Two-Way Door thinking, Pre-mortem Analysis, and other techniques to improve judgment in advanced technology development"
+publishDate = "2025-11-07T12:40:49+09:00"
+lastmod = "2025-12-08T23:58:38+09:00"
 +++
 
 **[Disclaimer]**  
@@ -233,6 +235,15 @@ With that premise, rather than aiming for perfection, **choose the best with lim
 Moving quickly in uncertainty. That's not recklessness but **intelligent speed**.
 
 ---
+
+
+
+## Related Articles
+
+- [When to Switch Decision Criteria: Trigger Design for System Engineers](/posts/when-to-switch-decision-triggers/)
+- [Why the Semiconductor Giant Fell: Intel's Lesson on Inaction](/posts/stagnation-is-the-worst-decision/)
+- [Defining Vision: Strategic Choice from Past Success & Failure](/posts/how-to-define-vision-strategic-choice/)
+- [The Art of Implementing Vision: Bridging Definition to Execution](/posts/vision-implementation-bridging-definition-to-execution/)
 
 ## References
 

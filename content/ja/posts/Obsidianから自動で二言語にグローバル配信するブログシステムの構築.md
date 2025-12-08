@@ -1,14 +1,12 @@
 +++
-created = "2025-10-27 08:00:00"
-date = "2025-10-27T22:00:00+09:00"
-publishDate = "2025-10-27T22:00:00+09:00"
 title = "Obsidianから自動で二言語にグローバル配信するブログシステムの構築"
-slug = "automated-bilingual-blog-system"
-lang = "ja"
+date = "2025-10-27T22:00:00+09:00"
 draft = false
 tags = ["automation", "blog", "hugo", "cloudflare", "obsidian", "AI", "productivity"]
-categories = ["technology", "automation"]
+slug = "automated-bilingual-blog-system"
 description = "Obsidianのマークダウン記事を日本語・英語の二言語に自動変換し、グローバルに配信できるブログシステムの構築方法を詳しく解説。低コストで効率的な情報発信基盤の作り方から技術的な実装手順まで、実践的なノウハウをステップバイステップで紹介します。"
+publishDate = "2025-10-27T22:00:00+09:00"
+lastmod = "2025-12-07T12:54:53+09:00"
 +++
 
 ## はじめに：なぜこのシステムを作ったのか
@@ -135,17 +133,17 @@ graph TD
 
 ### 技術スタック
 
-| カテゴリ        | 技術               | 役割                     | コスト        |
-| ----------- | ---------------- | ---------------------- | ---------- |
-| **執筆**      | Obsidian         | Markdown記事作成、知的生産の核    | 無料         |
-| **SSG**     | Hugo             | 静的サイト生成（Markdown→HTML） | 無料         |
-| **AI**      | Claude API       | 翻訳・品質チェック・SEO最適化       | $5-10/月    |
-| **ホスティング**  | Cloudflare Pages | 自動デプロイ・CDN配信           | 無料         |
-| **バージョン管理** | GitHub           | ソース管理・CI/CD            | 無料         |
-| **ドメイン**    | NameCheap        | 独自ドメイン                 | $10.18/年 ✅ |
-| **DNS**     | Cloudflare       | DNS管理・メール転送            | 無料         |
-| **SNS API** | LinkedIn API     | 自動投稿                   | 無料         |
-| **分析**      | Google Analytics | アクセス追跡                 | 無料         |
+| カテゴリ        | 技術               | 役割                     | コスト       |
+| ----------- | ---------------- | ---------------------- | --------- |
+| **執筆**      | Obsidian         | Markdown記事作成、知的生産の核    | 無料        |
+| **SSG**     | Hugo             | 静的サイト生成（Markdown→HTML） | 無料        |
+| **AI**      | Claude API       | 翻訳・品質チェック・SEO最適化       | $5-10/月   |
+| **ホスティング**  | Cloudflare Pages | 自動デプロイ・CDN配信           | 無料        |
+| **バージョン管理** | GitHub           | ソース管理・CI/CD            | 無料        |
+| **ドメイン**    | NameCheap        | 独自ドメイン                 | $10.18/年  |
+| **DNS**     | Cloudflare       | DNS管理・メール転送            | 無料        |
+| **SNS API** | LinkedIn API     | 自動投稿                   | 無料        |
+| **分析**      | Google Analytics | アクセス追跡                 | 無料        |
 
 **年間コスト合計: $10.18 + API利用料 $60-120 = $70.18-130.18（約1万円）**
 
@@ -155,7 +153,7 @@ graph TD
 
 ### ステージ１: 下書き（Draft）
 
-**目的**: ローカルで記事を確認・修正します
+**目的**: ローカルで記事を確認・修正
 
 ```bash
 draft.bat
@@ -164,16 +162,16 @@ draft_translate.bat
 ```
 
 **実行内容**:
-1. Obsidian（Core Vault）から記事を取得します
-2. Hugo形式に自動変換します
-3. `draft: true` で保存（非公開）します
-4. Hugoサーバーを自動起動します
-5. ブラウザで `http://localhost:1313` を開きます
+1. Obsidian（Core Vault）から記事を取得
+2. Hugo形式に自動変換
+3. `draft: true` で保存（非公開）
+4. Hugoサーバーを自動起動
+5. ブラウザで `http://localhost:1313` を開く
 
 **この時点では**:
-- GitHubにプッシュしません
-- 何度でも修正・プレビュー可能です
-- 完全にローカルで完結します
+- GitHubにプッシュしない
+- 何度でも修正・プレビュー可能
+- 完全にローカルで完結
 
 **AI翻訳機能**:
 ```python
@@ -194,7 +192,7 @@ def translate_with_claude(japanese_text):
 
 ### ステージ２: 品質チェック（Check）
 
-**目的**: AI による記事品質分析を行います
+**目的**: AI による記事品質分析を行う
 
 ```bash
 check.bat
@@ -229,10 +227,7 @@ check.bat
 
 ### ステージ３: 公開前最適化（Pre-Publish）
 
-**目的**: SEO最適化・Description自動生成を行います
-
-```bash
-```
+**目的**: SEO最適化・Description自動生成を行う
 
 **実行内容**:
 
@@ -268,21 +263,9 @@ seo_checks = {
 }
 ```
 
-**3. H1の扱い（重要）**
-```markdown
-問題: HugoテーマがタイトルをH1で出力
-     → Markdown内のH1と重複
-     → SEO的にNG
-
-解決策: 
-1. Markdown内のH1をコメントアウト
-2. CSSで非表示
-3. でもHTMLには残す（SEO用）
-```
-
 ### ステージ４: 公開（Publish）
 
-**目的**: 記事を実際に公開します
+**目的**: 記事を実際に公開
 
 ```bash
 publish.bat
@@ -331,17 +314,7 @@ CDN配信
 ブログ公開 
 ```
 
-### ステージ５: SNS展開（LinkedIn）
-
-**目的**: 記事からLinkedIn投稿を自動生成します
-
-```bash
-linkedin_post.bat
-```
-
-このシステムでは、記事から自動的にLinkedIn投稿を生成することができます。必要に応じて手動で編集・投稿することも可能な設計に今後修正していく予定です。
-
-### ステージ６: アクセス分析（Analytics）
+### ステージ５: アクセス分析（Analytics）
 
 **Google Analytics GA4統合**:
 
@@ -382,8 +355,8 @@ Obsidian/
 ```
 
 **分離の理由**:
-- Core Vaultは非公開（個人的なメモ・機密情報）です
-- Blog Vaultは公開（GitHubにプッシュ）します
+- Core Vaultは非公開（個人的なメモ）
+- Blog Vaultは公開（GitHubにプッシュ）
 - 明確な境界線を設けています
 
 
@@ -433,14 +406,14 @@ AI: 翻訳・SEO・品質チェックを自動化
 ### 機能1: 記事フォーマット変換
 
 **課題**:
-- Obsidian形式（EvolutionVault）
+- Obsidian形式（CoreVault）
 - Hugo形式（BlogVault）
 - 形式が異なる
 
 **解決**:
 ```python
 def convert_evolution_to_hugo_format(source_file, draft_mode=True):
-    """EvolutionVault形式 → Hugo形式"""
+    """CoreVault形式 → Hugo形式"""
     
     # 1. YAML frontmatterを解析
     with open(source_file, 'r', encoding='utf-8') as f:
@@ -547,7 +520,7 @@ https://takuyaniioka.com/posts/article-slug/
 | --------- | --------------- | -------------------- | ----- |
 | **執筆効率**  | 5時間/記事          | 1時間/記事               | 5倍速   |
 | **週次投稿数** | 0-1本            | 2本                   | 2倍+   |
-| **年間記事数** | 10-20本（挫折込み）    | 60本以上（目標達成可能）        | 3-6倍  |
+| **年間記事数** | 20-40本（挫折込み）    | 80本以上                | 2-5倍  |
 | **コスト**   | 外注翻訳 $50-100/記事 | $10.18/年 + API $10/月 | 95%削減 |
 
 ## 本システムの構築の仕方
@@ -620,3 +593,9 @@ https://takuyaniioka.com/posts/article-slug/
 - セットアップガイド
 - トラブルシューティング
 - FAQ
+
+
+## 関連記事
+
+- [システムアーキテクトの本質：正しいものを作るということ](/ja/posts/what-systems-architects-actually-do/)
+- [The Essence of System Architecture: Building the Right Thing](/ja/posts/what-systems-architects-actually-do/)

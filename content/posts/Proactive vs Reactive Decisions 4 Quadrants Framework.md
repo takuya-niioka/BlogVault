@@ -85,7 +85,7 @@ Combining the two axes classifies decisions into four quadrants.
 
 **Decision criteria** determine direction, and **decision timing** determines execution timing. This combination determines whether you can take the initiative or fall behind.
 
-![Four Quadrants of Decision-Making](figs/decision-quadrants-framework.svg)
+![Four Quadrants of Decision-Making](/figures/decision-quadrants-framework.svg)
 
 ### Which Quadrant Was Your Recent Decision In?
 

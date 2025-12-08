@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 700 500"
    version="1.1"
    id="svg48"
-   sodipodi:docname="Three Triggers for Decision Timing.svg"
+   sodipodi:docname="decision-timing-three-triggers.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,9 +22,9 @@
      inkscape:cx="350.06196"
      inkscape:cy="250"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg48" />
   <defs
@@ -158,40 +158,40 @@
      y="175.76085"
      class="cell-text"
      style="font-weight:bold"
-     id="text13">→ Planned review</text>
+     id="text13">Systematic review</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="116.76084"
      class="example-text"
      style="font-weight:bold"
      id="text14">Annual Review (January)</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="133.76085"
      class="example-text"
-     id="text15">• Verify vision validity</text>
+     id="text15">Vision validation</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="150.76085"
      class="example-text"
      style="font-weight:bold"
      id="text16">Quarterly Review</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="167.76085"
      class="example-text"
-     id="text17">• Tech trends & market analysis</text>
+     id="text17">Technical trends and market analysis</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="184.76085"
      class="example-text"
      style="font-weight:bold"
      id="text18">Monthly Check (1st Business Day)</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="201.76085"
      class="example-text"
-     id="text19">• Quality metrics & progress check</text>
+     id="text19">Quality indicators and progress check</text>
   <!-- Row 2: Number-based -->
   <rect
      x="41.239159"
@@ -246,40 +246,40 @@
      y="290.76083"
      class="cell-text"
      style="font-weight:bold"
-     id="text26">→ Early anomaly detection</text>
+     id="text26">Early anomaly detection</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="231.76085"
      class="example-text"
      style="font-weight:bold"
      id="text27">Quality Metrics</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="248.76085"
      class="example-text"
-     id="text28">• Bug rate >5% → Improvement week</text>
+     id="text28">Bug rate over 5% → improvement week</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="265.76083"
      class="example-text"
      style="font-weight:bold"
      id="text29">Cost Metrics</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="282.76083"
      class="example-text"
-     id="text30">• Unit price ≤$500 → Mass production</text>
+     id="text30">Unit price below $500 → mass production</text>
   <text
-     x="416.23917"
+     x="410.23917"
      y="299.76083"
      class="example-text"
      style="font-weight:bold"
      id="text31">Progress Metrics</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="316.76083"
      class="example-text"
-     id="text32">• Delay >2 weeks → Countermeasure meeting</text>
+     id="text32">Delay over 2 weeks → strategy meeting</text>
   <!-- Row 3: Event-based -->
   <rect
      x="41.239159"
@@ -306,19 +306,23 @@
      id="rect34" />
   <text
      x="111.23916"
-     y="383.76083"
+     y="381.76083"
      class="row-header"
      text-anchor="middle"
-     id="text34">3. 環境変化</text>
+     id="text34"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="111.23916"
+       y="381.76083">3. Environmental</tspan></text>
   <text
      x="111.23916"
      y="399.76083"
      class="row-header"
      text-anchor="middle"
-     id="text35">ベース</text>
+     id="text35">change-based</text>
   <text
      x="111.23916"
-     y="414.76083"
+     y="418.76083"
      class="row-subtitle"
      text-anchor="middle"
      id="text36">Event-based</text>
@@ -342,45 +346,73 @@
      y="410.76083"
      class="cell-text"
      style="font-weight:bold"
-     id="text40">→ Rapid response</text>
+     id="text40"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="196.23915"
+       y="410.76083">Responding to environmental</tspan><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="196.23915"
+       y="427.42746">changes</tspan></text>
   <text
-     x="206.23915"
-     y="425.76083"
-     class="cell-text"
-     style="font-weight:bold"
-     id="text41">to changes</text>
-  <text
-     x="416.23917"
+     x="410.23917"
      y="346.76083"
      class="example-text"
      style="font-weight:bold"
      id="text42">New Technology</text>
   <text
-     x="424.23917"
+     x="418.23917"
      y="363.76083"
      class="example-text"
-     id="text43">• Evaluate & decide in 2 weeks</text>
+     id="text43"><tspan
+       sodipodi:role="line"
+       id="tspan7"
+       x="418.23917"
+       y="363.76083">Evaluation and adoption decision</tspan><tspan
+       sodipodi:role="line"
+       id="tspan8"
+       x="418.23917"
+       y="380.42746">within 2 weeks</tspan></text>
   <text
-     x="416.23917"
-     y="380.76083"
+     x="410.23917"
+     y="400.76083"
      class="example-text"
      style="font-weight:bold"
      id="text44">Regulatory Change</text>
   <text
-     x="424.23917"
-     y="397.76083"
+     x="418.23917"
+     y="417.76083"
      class="example-text"
-     id="text45">• Impact analysis & response plan</text>
+     id="text45">Impact analysis and response plan</text>
   <text
-     x="416.23917"
-     y="414.76083"
+     x="410.23917"
+     y="434.76083"
      class="example-text"
      style="font-weight:bold"
      id="text46">Competitor Moves</text>
   <text
-     x="424.23917"
-     y="431.76083"
+     x="418.23917"
+     y="451.76083"
      class="example-text"
-     id="text47">• Breakthrough tech → 1 month evaluation</text>
+     id="text47"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       x="418.23917"
+       y="451.76083">Groundbreaking technology</tspan><tspan
+       sodipodi:role="line"
+       id="tspan6"
+       x="418.23917"
+       y="468.42746">→ 1 month evaluation</tspan></text>
   <!-- Bottom note -->
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f9f9f9"
+     x="656.94922"
+     y="407.68277"
+     id="text20"><tspan
+       sodipodi:role="line"
+       id="tspan9"
+       x="656.94922"
+       y="407.68277">s</tspan></text>
 </svg>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 600 350"
    version="1.1"
    id="svg26"
-   sodipodi:docname="continuous-improvement-culture.svg"
+   sodipodi:docname="継続的改善のCulture.svg"
    width="600"
    height="350"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -51,9 +51,9 @@
      y="51.19471"
      class="title"
      text-anchor="middle"
-     id="text1">継続的改善の文化を支える3つの柱</text>
+     id="text1">Three Pillars Supporting a Culture of Continuous Improvement</text>
   <!-- Foundation -->
-  <!-- Pillar 1: 失敗を歓迎する文化 -->
+  <!-- Pillar 1: Welcome FailureCulture -->
   <rect
      x="7.0264568"
      y="70.617516"
@@ -68,44 +68,44 @@
      y="101.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text3">失敗を歓迎する</text>
+     id="text3">Welcome Failure</text>
   <text
      x="102.02646"
      y="121.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text4">文化</text>
+     id="text4">Culture</text>
   <text
      x="22.026457"
      y="151.61752"
      class="pillar-text"
-     id="text5">✓ 「このビジョンは</text>
+     id="text5">"This Vision</text>
   <text
      x="32.026459"
      y="171.61752"
      class="pillar-text"
-     id="text6">間違っていた」と</text>
+     id="text6">Was Wrong"</text>
   <text
      x="32.026459"
      y="191.61752"
      class="pillar-text"
-     id="text7">言える雰囲気</text>
+     id="text7">In an Atmosphere Where One Can Say</text>
   <text
      x="22.026457"
      y="216.61752"
      class="pillar-text"
-     id="text8">✓ 失敗から学ぶ姿勢</text>
+     id="text8">A Posture of Learning from Failure</text>
   <text
      x="22.026457"
      y="241.61752"
      class="pillar-text"
-     id="text9">✓ 早期の方向転換を</text>
+     id="text9">Early Pivot</text>
   <text
      x="32.026459"
      y="261.61752"
      class="pillar-text"
-     id="text10">評価</text>
-  <!-- Pillar 2: 学習する組織 -->
+     id="text10">Evaluation</text>
+  <!-- Pillar 2: LearnOrganization -->
   <rect
      x="206.79143"
      y="70.617516"
@@ -120,39 +120,39 @@
      y="101.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text11">学習する</text>
+     id="text11">Learn</text>
   <text
      x="301.79141"
      y="121.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text12">組織</text>
+     id="text12">Organization</text>
   <text
      x="221.79143"
      y="151.61752"
      class="pillar-text"
-     id="text13">✓ 環境変化を</text>
+     id="text13">Constantly Observing Environmental Changes</text>
   <text
      x="231.79143"
      y="171.61752"
      class="pillar-text"
-     id="text14">常に観察</text>
+     id="text14">Experiment and Verify</text>
   <text
      x="221.79143"
      y="201.61752"
      class="pillar-text"
-     id="text15">✓ 実験と検証を</text>
+     id="text15">Repeatedly</text>
   <text
      x="231.79143"
      y="221.61752"
      class="pillar-text"
-     id="text16">繰り返す</text>
+     id="text16">Move with Hypotheses</text>
   <text
      x="221.79143"
      y="251.61752"
      class="pillar-text"
-     id="text17">✓ 仮説を持って動く</text>
-  <!-- Pillar 3: 謙虚さと勇気 -->
+     id="text17">Humility and</text>
+  <!-- Pillar 3: CourageHumility to Doubt One's Own Judgments -->
   <rect
      x="404.97919"
      y="70.617516"
@@ -164,35 +164,41 @@
   <!-- Icon: Shield (courage) with heart (humility) -->
   <text
      x="499.97916"
-     y="101.61752"
+     y="96.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text18">謙虚さと</text>
+     id="text18">Humility</text>
   <text
      x="499.97916"
-     y="121.61752"
+     y="116.61752"
      class="pillar-title"
      text-anchor="middle"
-     id="text19">勇気</text>
+     id="text18b">and</text>
+  <text
+     x="499.97916"
+     y="136.61752"
+     class="pillar-title"
+     text-anchor="middle"
+     id="text19">Courage</text>
   <text
      x="419.97919"
-     y="151.61752"
+     y="161.61752"
      class="pillar-text"
-     id="text20">✓ 自分たちの判断を</text>
+     id="text20">✓ Humility to doubt</text>
   <text
      x="429.97919"
-     y="171.61752"
+     y="181.61752"
      class="pillar-text"
-     id="text21">疑う謙虚さ</text>
+     id="text21">one's own judgments</text>
   <text
      x="419.97919"
-     y="201.61752"
+     y="211.61752"
      class="pillar-text"
-     id="text22">✓ 必要なら</text>
+     id="text22">✓ Courage to change</text>
   <text
      x="429.97919"
-     y="221.61752"
+     y="231.61752"
      class="pillar-text"
-     id="text23">方向転換する勇気</text>
+     id="text23">direction if needed</text>
   <!-- Quote at bottom -->
 </svg>
