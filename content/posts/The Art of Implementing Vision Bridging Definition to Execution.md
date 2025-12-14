@@ -1,17 +1,12 @@
 +++
-created = "2025-12-04"
-date = "2025-12-06T13:16:43+09:00"
 title = "The Art of Implementing Vision: Bridging Definition to Execution"
-author = "Takuya Niioka"
+date = "2025-12-06T13:16:43+09:00"
 draft = false
-portfolio = ["[[Portfolio_Blog]]"]
 tags = ["decision-making", "strategy-implementation", "vision-implementation", "system-architecture", "organizational-management"]
 slug = "vision-implementation-bridging-definition-to-execution"
-categories = ["Strategy", "Decision Making", "Engineering Leadership"]
 description = "Turn your vision into action with a systematic process that bridges strategy and execution through clear decision points and regular updates."
-lang = "en"
 publishDate = "2025-12-06T13:16:43+09:00"
-lastmod = "2025-12-09T00:13:45+09:00"
+lastmod = "2025-12-15T08:05:25+09:00"
 +++
 
 ## 3-Line Summary
@@ -389,6 +384,7 @@ And that ability is not talent, but technique. It can be acquired through eager 
 - [Why the Semiconductor Giant Fell: Intel's Lesson on Inaction](/posts/stagnation-is-the-worst-decision/)
 - [Decision-Making Under Uncertainty: The 70% Rule](/posts/decision-making-under-uncertainty-70-percent-rule/)
 - [The Essence of System Architecture: Building the Right Thing](/posts/what-systems-architects-actually-do/)
+- [First Principles & Regret Minimization for Long-Term Vision](/posts/first-principles-and-regret-minimization/)
 
 ---
 
