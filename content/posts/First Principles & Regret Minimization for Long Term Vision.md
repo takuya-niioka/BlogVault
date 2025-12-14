@@ -122,7 +122,7 @@ Analogical thinking becomes even more powerful when combined with cognitive bias
 
 As a result, we try to reach solutions quickly without "thinking from essence with our own minds." This is the trap of short-term thinking.
 
-![short-term-temptation-structure](figures/short-term-temptation-structure.svg)
+![short-term-temptation-structure](/figures/short-term-temptation-structure.svg)
 
 ### Purpose of This Article
 
@@ -133,7 +133,7 @@ So how can we overcome cognitive biases and organizational pressure to define vi
 
 This article will deep-dive into these two and integrate them.
 
-![short-term-temptation-vs-long-term-value](figures/short-term-temptation-vs-long-term-value.svg)
+![short-term-temptation-vs-long-term-value](/figures/short-term-temptation-vs-long-term-value.svg)
 
 ---
 ## What Is First Principles Thinking?
