@@ -6,7 +6,7 @@ tags = ["decision-making", "strategy-implementation", "vision-implementation", "
 slug = "vision-implementation-bridging-definition-to-execution"
 description = "Turn your vision into action with a systematic process that bridges strategy and execution through clear decision points and regular updates."
 publishDate = "2025-12-06T13:16:43+09:00"
-lastmod = "2025-12-15T08:05:25+09:00"
+lastmod = "2025-12-15T08:29:06+09:00"
 +++
 
 ## 3-Line Summary
