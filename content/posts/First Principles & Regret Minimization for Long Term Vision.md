@@ -1,16 +1,12 @@
 +++
-created = "2025-12-04"
-date = "2025-12-14T09:57:30+09:00"
 title = "First Principles & Regret Minimization for Long-Term Vision"
-author = "Takuya Niioka"
+date = "2025-12-14T09:57:30+09:00"
 draft = false
-portfolio = ["[[Portfolio_Blog]]"]
 tags = ["decision-making", "strategy", "first-principles-thinking", "career-strategy", "engineering-philosophy"]
 slug = "first-principles-and-regret-minimization"
-categories = ["Strategy", "Decision Making", "Engineering Philosophy", "Career Development"]
 description = "Beat short-term temptations with first principles thinking and regret minimization for decisions you won't regret at 80."
-lang = "en"
 publishDate = "2025-12-14T09:57:30+09:00"
+lastmod = "2025-12-15T08:02:12+09:00"
 +++
 
 - **Why do even excellent engineers succumb to short-term temptations (competitor following, market voices)? Understanding the structure of cognitive biases and organizational pressure**
@@ -119,7 +115,7 @@ Analogical thinking becomes even more powerful when combined with cognitive bias
 
 As a result, we try to reach solutions quickly without "thinking from essence with our own minds." This is the trap of short-term thinking.
 
-![Short-term temptation structure](figures/Short-term temptation structure.svg)
+![short-term-temptation-structure](/figures/short-term-temptation-structure.svg)
 
 ### Purpose of This Article
 
@@ -130,7 +126,7 @@ So how can we overcome cognitive biases and organizational pressure to define vi
 
 This article will deep-dive into these two and integrate them.
 
-![Short-term temptation vs long-term value](figures/Short-term temptation vs long-term value.svg)
+![short-term-temptation-vs-long-term-value](/figures/short-term-temptation-vs-long-term-value.svg)
 
 ---
 ## What Is First Principles Thinking?
