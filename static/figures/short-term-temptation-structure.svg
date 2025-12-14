@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 650 700"
+   font-family="Arial, sans-serif"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="short-term-temptation-structure.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   width="650"
+   height="700"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1339919"
+     inkscape:cx="249.11995"
+     inkscape:cy="331.13111"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .title { font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .layer-foundation { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .layer-amplifier { fill: #e67e22; stroke: #d35400; stroke-width: 2; }
+      .layer-core { fill: #f39c12; stroke: #e67e00; stroke-width: 3; }
+      .layer-manifestation { fill: #ecf0f1; stroke: #95a5a6; stroke-width: 2; }
+      .text-white { font-size: 16px; fill: white; text-anchor: middle; font-weight: bold; }
+      .text-dark { font-size: 14px; fill: #2c3e50; text-anchor: middle; }
+      .text-small { font-size: 12px; fill: #7f8c8d; text-anchor: middle; }
+      .arrow-down { fill: none; stroke: #34495e; stroke-width: 3; marker-end: url(#arrowhead); }
+      .bracket { fill: none; stroke: #34495e; stroke-width: 2; }
+    </style>
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="0,6 0,0 10,3 "
+         fill="#34495e"
+         id="polygon1" />
+    </marker>
+  </defs>
+  <!-- Title -->
+  <text
+     x="320"
+     y="31"
+     class="title"
+     text-anchor="middle"
+     id="text1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.8px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#2c3e50"><tspan
+       sodipodi:role="line"
+       id="tspan7"
+       x="320"
+       y="31">短期的誘惑の構造</tspan><tspan
+       sodipodi:role="line"
+       id="tspan8"
+       x="320"
+       y="61">Structure of Short-term Temptations</tspan></text>
+  <!-- Layer 1: Foundation - Cognitive Biases -->
+  <g
+     id="g25"
+     transform="translate(1.5258789e-5)">
+    <rect
+       x="50.896957"
+       y="74.95256"
+       width="548.20605"
+       height="73.206085"
+       class="layer-foundation"
+       rx="7.3094139"
+       id="rect1" />
+    <text
+       x="324.46259"
+       y="105.35448"
+       class="text-white"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.8px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke-width:1"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="324.46259"
+         y="105.35448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.8px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">基盤：認知バイアス</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="324.46259"
+         y="127.0211"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.8px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Foundation: Cognitive Biases</tspan></text>
+  </g>
+  <!-- Arrow 1 to 2 -->
+  <!-- Layer 2: Amplifier - Organization Structure -->
+  <!-- Arrow 2 to 3 -->
+  <!-- Layer 3: Core Problem - Analogy Thinking -->
+  <!-- Arrow 3 to manifestations -->
+  <!-- Bracket opening -->
+  <path
+     d="M 56,400 H 36 v 240 h 20"
+     class="bracket"
+     id="path8" />
+  <path
+     d="m 588,400 h 20 v 240 h -20"
+     class="bracket"
+     id="path9" />
+  <!-- Layer 4: Three Manifestations -->
+  <text
+     x="320"
+     y="425"
+     class="text-dark"
+     style="font-weight:bold;font-size:7.8px;-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="text9">Three Short-term Temptations</text>
+  <!-- Manifestation 1: Competitor Following -->
+  <rect
+     x="80"
+     y="440"
+     width="480"
+     height="50"
+     class="layer-manifestation"
+     rx="5"
+     id="rect9" />
+  <text
+     x="320"
+     y="458"
+     class="text-dark"
+     id="text10"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="320"
+       dy="0"
+       id="tspan9"
+       style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Temptation 1: Competitor Following</tspan></text>
+  <text
+     x="320"
+     y="478"
+     class="text-small"
+     id="text11"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Competitor Following</text>
+  <!-- Manifestation 2: Market Voice -->
+  <rect
+     x="80"
+     y="505"
+     width="480"
+     height="50"
+     class="layer-manifestation"
+     rx="5"
+     id="rect11" />
+  <text
+     x="320"
+     y="523"
+     class="text-dark"
+     id="text12"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="320"
+       dy="0"
+       id="tspan11"
+       style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Temptation 2: Market Voice</tspan></text>
+  <text
+     x="320"
+     y="543"
+     class="text-small"
+     id="text13"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Market Voice</text>
+  <!-- Manifestation 3: Technical Feasibility -->
+  <rect
+     x="80"
+     y="570"
+     width="480"
+     height="50"
+     class="layer-manifestation"
+     rx="5"
+     id="rect13" />
+  <text
+     x="320"
+     y="588"
+     class="text-dark"
+     id="text14"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="320"
+       dy="0"
+       id="tspan13"
+       style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Temptation 3: Technical Feasibility</tspan></text>
+  <text
+     x="320"
+     y="608"
+     class="text-small"
+     id="text15"
+     style="-inkscape-font-specification:'Meiryo UI, Bold';font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Technical Feasibility</text>
+  <!-- Bottom note -->
+  <text
+     x="320"
+     y="675"
+     class="text-small"
+     fill="#e74c3c"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="text16"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333"
+       id="tspan16">Not thinking from first principles</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#333333"
+     x="-86.027061"
+     y="631.45142"
+     id="text17"><tspan
+       sodipodi:role="line"
+       id="tspan17"
+       x="-86.027061"
+       y="631.45142" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#333333"
+     x="701.31073"
+     y="92.293503"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       x="701.31073"
+       y="92.293503" /></text>
+  <g
+     id="g23">
+    <rect
+       x="51.558643"
+       y="281.87094"
+       width="546.88269"
+       height="71.882683"
+       class="layer-core"
+       rx="8.413579"
+       id="rect4" />
+    <text
+       x="325.32162"
+       y="313.35449"
+       class="text-white"
+       id="text19"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke-width:1"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="325.32162"
+         y="313.35449">核心的問題：類推思考</tspan><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         x="325.32162"
+         y="335.02112">Core Problem: Analogy Thinking</tspan></text>
+  </g>
+  <g
+     id="g24"
+     transform="translate(0,-3.7352028)">
+    <rect
+       x="51.010059"
+       y="182.01004"
+       width="547.97986"
+       height="72.979912"
+       class="layer-amplifier"
+       rx="7.8282847"
+       id="rect3" />
+    <text
+       x="325.26236"
+       y="211.35448"
+       class="text-white"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke-width:1"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="325.26236"
+         y="211.35448">増幅器：組織構造</tspan><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="325.26236"
+         y="233.0211">Amplifier: Organization Structure</tspan></text>
+  </g>
+  <path
+     sodipodi:type="star"
+     style="fill:#4d4d4d"
+     id="path25"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="288.70615"
+     sodipodi:cy="153.39462"
+     sodipodi:r1="16.789743"
+     sodipodi:r2="8.3948717"
+     sodipodi:arg1="0.54678884"
+     sodipodi:arg2="1.5939864"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 303.04792,162.1244 -29.07287,-0.67432 15.12042,-24.84069 z"
+     inkscape:transform-center-x="0.81607312"
+     inkscape:transform-center-y="5.0861835"
+     transform="matrix(0.38440925,0.63225902,-0.63225902,0.38440925,311.28744,-80.540252)" />
+  <path
+     sodipodi:type="star"
+     style="fill:#4d4d4d"
+     id="path26"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="288.70615"
+     sodipodi:cy="153.39462"
+     sodipodi:r1="16.789743"
+     sodipodi:r2="8.3948717"
+     sodipodi:arg1="0.54678884"
+     sodipodi:arg2="1.5939864"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 303.04792,162.1244 -29.07287,-0.67432 15.12042,-24.84069 z"
+     inkscape:transform-center-x="0.81607312"
+     inkscape:transform-center-y="5.0861835"
+     transform="matrix(0.38440925,0.63225902,-0.63225902,0.38440925,311.28744,21.459748)" />
+  <path
+     sodipodi:type="star"
+     style="fill:#4d4d4d"
+     id="path27"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="288.70615"
+     sodipodi:cy="153.39462"
+     sodipodi:r1="16.789743"
+     sodipodi:r2="8.3948717"
+     sodipodi:arg1="0.54678884"
+     sodipodi:arg2="1.5939864"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 303.04792,162.1244 -29.07287,-0.67432 15.12042,-24.84069 z"
+     inkscape:transform-center-x="0.81607312"
+     inkscape:transform-center-y="5.0861835"
+     transform="matrix(0.38440925,0.63225902,-0.63225902,0.38440925,311.28744,125.45975)" />
+</svg>

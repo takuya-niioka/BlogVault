@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
   <!-- タイトル -->
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50" style="font-size: 0.3px">
     Three Triggers for Vision Update
   </text>
 
@@ -9,22 +9,22 @@
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Vision
   </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white" style="font-size: 0.3px">
     Regularly
   </text>
-  <text x="400" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  <text x="400" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white" style="font-size: 0.3px">
     Review
   </text>
 
   <!-- トリガー1：Time-based（上） -->
   <circle cx="400" cy="120" r="70" fill="#3498DB" stroke="#2980B9" stroke-width="3"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" style="font-size: 0.3px">
     Time-based
   </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" style="font-size: 0.3px">
     Annual (Required)
   </text>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" style="font-size: 0.3px">
     Quarterly
   </text>
 
@@ -33,16 +33,16 @@
 
   <!-- トリガー2：EventBase（左下） -->
   <circle cx="220" cy="450" r="70" fill="#E74C3C" stroke="#C0392B" stroke-width="3"/>
-  <text x="220" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  <text x="220" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" style="font-size: 0.3px">
     Event
   </text>
-  <text x="220" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  <text x="220" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" style="font-size: 0.3px">
     Base
   </text>
-  <text x="220" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  <text x="220" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" style="font-size: 0.3px">
     Market Changes
   </text>
-  <text x="220" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  <text x="220" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" style="font-size: 0.3px">
     Competitive Innovation
   </text>
 
@@ -51,7 +51,7 @@
 
   <!-- トリガー3：指標Base（右下） -->
   <circle cx="580" cy="450" r="70" fill="#2ECC71" stroke="#27AE60" stroke-width="3"/>
-  <text x="580" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  <text x="580" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" style="font-size: 0.3px">
     指標Base
   </text>
   <text x="580" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -81,7 +81,7 @@
   </defs>
 
   <!-- 説明文 -->
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-style="italic" fill="#7F8C8D">
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-style="italic; font-size: 5.8px" fill="#7F8C8D">
     3つのトリガーで継続的にVisionの鮮度をチェック
   </text>
 </svg>

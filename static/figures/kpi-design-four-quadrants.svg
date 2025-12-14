@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.345"
      inkscape:cx="388.84758"
-     inkscape:cy="293.30855"
+     inkscape:cy="292.56506"
      inkscape:window-width="1920"
-     inkscape:window-height="1094"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg25" />
   <rect
@@ -43,11 +43,11 @@
      x="352"
      y="40"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="24px"
      font-weight="bold"
      fill="#2c3e50"
-     id="text1">The Four Quadrants of KPI Design</text>
+     id="text1" style="font-size: 0.1px">The Four Quadrants of KPI Design</text>
   <!-- 軸 -->
   <line
      x1="352"
@@ -58,19 +58,19 @@
      stroke-width="3"
      id="line1" />
   <line
-     x1="116.68401"
+     x1="52"
      y1="315"
-     x2="596.98138"
+     x2="652"
      y2="315"
      stroke="#333333"
-     stroke-width="2.68411"
+     stroke-width="3"
      id="line2" />
   <!-- 軸ラベル -->
   <text
      x="352"
      y="75"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="16px"
      font-weight="bold"
      fill="#333333"
@@ -79,25 +79,25 @@
      x="352"
      y="570"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="16px"
      font-weight="bold"
      fill="#333333"
      id="text3">Lagging indicator</text>
   <text
-     x="110.40149"
+     x="42"
      y="320"
      text-anchor="end"
-     font-family="'Meiryo UI'"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="16px"
      font-weight="bold"
      fill="#333333"
      id="text4">Quantitative</text>
   <text
-     x="602.52045"
+     x="662"
      y="320"
      text-anchor="start"
-     font-family="'Meiryo UI'"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="16px"
      font-weight="bold"
      fill="#333333"
@@ -117,17 +117,17 @@
      x="202"
      y="130"
      text-anchor="middle"
-     font-family="Arial, sans-serif"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="18px"
      font-weight="bold"
      fill="#1565c0"
      id="text6"
-     style="stroke-width:1">Leading × Quantitative</text>
+     style="stroke-width:1; font-size: 0.1px">先行 × Quantitative</text>
   <text
      x="202"
      y="160"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text7">• Test Coverage</text>
@@ -135,7 +135,7 @@
      x="202"
      y="185"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text8">• Bug detection rate</text>
@@ -143,7 +143,7 @@
      x="202"
      y="210"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text9">• Code Quality Metrics</text>
@@ -151,9 +151,9 @@
      x="202"
      y="240"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="12px"
-     font-style="italic"
+     font-style="italic; font-size: 0.1px"
      fill="#666666"
      id="text10">Early Warning・Objective</text>
   <!-- 第2象限：先行×Qualitative -->
@@ -171,17 +171,17 @@
      x="502"
      y="130"
      text-anchor="middle"
-     font-family="Arial, sans-serif"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="18px"
      font-weight="bold"
      fill="#6a1b9a"
      id="text11"
-     style="stroke-width:1">Leading × Qualitative</text>
+     style="stroke-width:1; font-size: 0.1px">先行 × Qualitative</text>
   <text
      x="502"
      y="160"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text12">• Engineer reliability</text>
@@ -189,7 +189,7 @@
      x="502"
      y="185"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text13">• Team morale</text>
@@ -197,7 +197,7 @@
      x="502"
      y="210"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text14">• Design Review Evaluation</text>
@@ -205,9 +205,9 @@
      x="502"
      y="240"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="12px"
-     font-style="italic"
+     font-style="italic; font-size: 0.1px"
      fill="#666666"
      id="text15">Early Warning/Essential</text>
   <!-- 第3象限：遅行×Quantitative -->
@@ -225,17 +225,17 @@
      x="202"
      y="360"
      text-anchor="middle"
-     font-family="Arial, sans-serif"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="18px"
      font-weight="bold"
      fill="#2e7d32"
      id="text16"
-     style="stroke-width:1">Lagging × Quantitative</text>
+     style="stroke-width:1; font-size: 0.1px">遅行 × Quantitative</text>
   <text
      x="202"
      y="390"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text17">• Accident reduction rate</text>
@@ -243,7 +243,7 @@
      x="202"
      y="415"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text18">• Penetration rate</text>
@@ -251,7 +251,7 @@
      x="202"
      y="440"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text19">• Capacity utilization rate</text>
@@ -259,19 +259,11 @@
      x="202"
      y="470"
      text-anchor="middle"
-     font-family="'Meiryo UI'"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="12px"
      font-style="italic"
      fill="#666666"
-     id="text20"><tspan
-       sodipodi:role="line"
-       id="tspan3"
-       x="202"
-       y="470">Result confirmation/verification</tspan><tspan
-       sodipodi:role="line"
-       id="tspan4"
-       x="202"
-       y="485">- Objective</tspan></text>
+     id="text20">Result confirmation/verification - Objective</text>
   <!-- 第4象限：遅行×Qualitative -->
   <rect
      x="372"
@@ -287,17 +279,17 @@
      x="502"
      y="360"
      text-anchor="middle"
-     font-family="Arial, sans-serif"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="18px"
      font-weight="bold"
      fill="#e65100"
      id="text21"
-     style="stroke-width:1">Lagging × Qualitative</text>
+     style="stroke-width:1">遅行 × Qualitative</text>
   <text
      x="502"
      y="390"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text22">• User Reviews</text>
@@ -305,7 +297,7 @@
      x="502"
      y="415"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text23">• Market recognition</text>
@@ -313,7 +305,7 @@
      x="502"
      y="440"
      text-anchor="middle"
-     font-family="Meiryo UI"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="14px"
      fill="#333333"
      id="text24">• Third-party evaluation</text>
@@ -321,17 +313,9 @@
      x="502"
      y="470"
      text-anchor="middle"
-     font-family="'Meiryo UI'"
+     font-family="Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
      font-size="12px"
      font-style="italic"
      fill="#666666"
-     id="text25"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="502"
-       y="470">Result Confirmation/Verification</tspan><tspan
-       sodipodi:role="line"
-       id="tspan2"
-       x="502"
-       y="485">- Essential/Fundamental</tspan></text>
+     id="text25">Result Confirmation/Verification - Essential/Fundamental</text>
 </svg>

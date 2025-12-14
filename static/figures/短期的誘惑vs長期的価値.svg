@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 650 500"
+   font-family="Arial, sans-serif"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="短期的誘惑vs長期的価値.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   width="650"
+   height="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0836411"
+     inkscape:cx="175.3348"
+     inkscape:cy="118.58169"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1">
+    <rect
+       x="33.210331"
+       y="47.355473"
+       width="723.24725"
+       height="83.640839"
+       id="rect25" />
+    <style
+       id="style1">
+      .title { font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .danger-box { fill: #e74c3c; stroke: #c0392b; stroke-width: 3; }
+      .success-box { fill: #2ecc71; stroke: #27ae60; stroke-width: 3; }
+      .text-white { font-size: 16px; fill: white; text-anchor: middle; font-weight: bold; }
+      .text-small { font-size: 14px; fill: white; text-anchor: start; }
+      .label { font-size: 18px; fill: #2c3e50; font-weight: bold; }
+      .vs-circle { fill: #34495e; }
+      .vs-text { font-size: 32px; fill: white; font-weight: bold; text-anchor: middle; }
+    </style>
+  </defs>
+  <!-- Title -->
+  <!-- Left side: Short-term Temptations (Danger) -->
+  <!-- VS Circle -->
+  <!-- Right side: Long-term Value (Success) -->
+  <text
+     xml:space="preserve"
+     id="text25"
+     style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25);display:inline;fill:#333333" />
+  <g
+     id="g2"
+     transform="translate(-44.371941)">
+    <g
+       id="g1"
+       transform="translate(-20)">
+      <rect
+         x="83.219368"
+         y="122.03887"
+         width="247.27525"
+         height="340.27524"
+         class="danger-box"
+         rx="8.2425079"
+         id="rect2" />
+      <rect
+         x="450.71463"
+         y="122.03413"
+         width="245.54919"
+         height="340.28473"
+         class="success-box"
+         rx="8.1849728"
+         id="rect14" />
+    </g>
+    <text
+       x="369.98724"
+       y="48.046253"
+       class="title"
+       text-anchor="middle"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1"><tspan
+         style="font-weight:bold;font-size:18.6667px;stroke-width:1"
+         id="tspan25">Short-term Temptation vs Long-term Value</tspan></text>
+    <text
+       x="185.98956"
+       y="87.855469"
+       class="label"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#e74c3c"
+       text-anchor="middle"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         x="185.98956"
+         y="87.855469">短期的誘惑</tspan><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         x="185.98956"
+         y="111.18884">Short-term Temptations</tspan></text>
+    <circle
+       cx="84.857002"
+       cy="160.1765"
+       r="8"
+       fill="#ffffff"
+       id="circle2" />
+    <text
+       x="102.93273"
+       y="164.53514"
+       class="text-small"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3334px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1"><tspan
+         x="102.93273"
+         dy="0"
+         font-weight="bold"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">競合追従</tspan><tspan
+         x="102.93273"
+         dy="18"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Competitor Following</tspan></text>
+    <circle
+       cx="84.857002"
+       cy="230.1765"
+       r="8"
+       fill="#ffffff"
+       id="circle4" />
+    <text
+       x="104.857"
+       y="235.1765"
+       class="text-small"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="104.857"
+         dy="0"
+         font-weight="bold"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">市場の声</tspan><tspan
+         x="104.857"
+         dy="18"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Market Voice</tspan></text>
+    <circle
+       cx="84.857002"
+       cy="292.17651"
+       r="8"
+       fill="#ffffff"
+       id="circle6" />
+    <text
+       x="104.857"
+       y="297.17651"
+       class="text-small"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="104.857"
+         dy="0"
+         font-weight="bold"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">技術的可能性</tspan><tspan
+         x="104.857"
+         dy="18"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Technical Feasibility</tspan></text>
+    <line
+       x1="84.857002"
+       y1="352.17651"
+       x2="284.5864"
+       y2="352.17651"
+       stroke="#ffffff"
+       stroke-width="1.75293"
+       id="line8" />
+    <text
+       x="84.857002"
+       y="377.17651"
+       class="text-small"
+       style="font-size:14px;text-anchor:start;fill:#ffe6e6"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         x="84.857002"
+         y="377.17651"
+         style="font-weight:bold"><tspan
+           x="84.857002"
+           font-weight="bold"
+           id="tspan9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">結果 | Consequences:</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="84.857002"
+         y="396.77563"
+         id="tspan42"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">✗ 差別化の喪失</tspan><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="84.857002"
+         y="416.37473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">✗ リソース分散</tspan><tspan
+         sodipodi:role="line"
+         x="84.857002"
+         y="435.97385"
+         id="tspan43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">✗ ビジョンの希薄化</tspan></text>
+    <g
+       id="g11"
+       transform="translate(-30.903234,39.764735)">
+      <circle
+         cx="400"
+         cy="250"
+         r="40"
+         class="vs-circle"
+         id="circle12" />
+      <text
+         x="400.44434"
+         y="256.64688"
+         class="vs-text"
+         id="text13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5714px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">VS</text>
+    </g>
+    <text
+       x="552.85699"
+       y="87.176498"
+       class="label"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#2ecc71"
+       text-anchor="middle"
+       id="text14"><tspan
+         x="552.85699"
+         dy="0"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">長期的価値</tspan><tspan
+         x="552.85699"
+         dy="22"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan14">Long-term Value</tspan></text>
+    <g
+       id="g12"
+       transform="translate(-20,46)">
+      <circle
+         cx="470.85699"
+         cy="152.1765"
+         r="8"
+         fill="#ffffff"
+         id="circle14" />
+      <text
+         x="490.85699"
+         y="157.1765"
+         class="text-small"
+         id="text16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           x="490.85699"
+           dy="0"
+           font-weight="bold"
+           id="tspan15"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">本質的価値</tspan><tspan
+           x="490.85699"
+           dy="18"
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Essential Value</tspan></text>
+    </g>
+    <g
+       id="g13"
+       transform="translate(-20,-24)">
+      <circle
+         cx="470.85699"
+         cy="292.17651"
+         r="8"
+         fill="#ffffff"
+         id="circle18" />
+      <text
+         x="490.85699"
+         y="297.17651"
+         class="text-small"
+         id="text20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           x="490.85699"
+           dy="0"
+           font-weight="bold"
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">後悔最小化</tspan><tspan
+           x="490.85699"
+           dy="18"
+           id="tspan20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3333px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Regret Minimization</tspan></text>
+    </g>
+    <line
+       x1="450.85699"
+       y1="352.17651"
+       x2="657.35144"
+       y2="352.17651"
+       stroke="#ffffff"
+       stroke-width="1.78237"
+       id="line20" />
+    <text
+       x="448.85699"
+       y="377.17651"
+       class="text-small"
+       style="font-size:14px;text-anchor:start;fill:#ffe6e6"
+       id="text57"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6ffe6"
+         x="448.85699"
+         y="377.17651">結果 | Consequences:</tspan><tspan
+         sodipodi:role="line"
+         id="tspan63"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6ffe6"
+         x="448.85699"
+         y="396.77563">✓ 差別化の確立</tspan><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6ffe6"
+         x="448.85699"
+         y="416.37473">✓ 集中投資</tspan><tspan
+         sodipodi:role="line"
+         id="tspan65"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6ffe6"
+         x="448.85699"
+         y="435.97385">✓ ビジョンの実現</tspan><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6ffe6"
+         x="448.85699"
+         y="453.47385" /></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6ffe6"
+     x="406.03848"
+     y="349.74677"
+     id="text67"><tspan
+       sodipodi:role="line"
+       id="tspan67"
+       x="406.03848"
+       y="349.74677" /></text>
+</svg>

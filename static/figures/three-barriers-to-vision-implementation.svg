@@ -20,25 +20,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.6527907"
-     inkscape:cx="367.25763"
-     inkscape:cy="280.43478"
+     inkscape:zoom="1.0375185"
+     inkscape:cx="479.99144"
+     inkscape:cy="185.53886"
      inkscape:window-width="1920"
-     inkscape:window-height="1094"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg39" />
   <defs
      id="defs1">
     <style
        id="style1">
-      .title { font-family: Arial, sans-serif, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
-      .wall-title { font-family: Arial, sans-serif, sans-serif; font-size: 18px; font-weight: bold; fill: #ffffff; }
-      .wall-subtitle { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #ffffff; font-style: italic; }
-      .wall-text { font-family: Arial, sans-serif, sans-serif; font-size: 12px; fill: #ffffff; }
-      .vision-text { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #2c3e50; font-weight: bold; }
-      .goal-text { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #27ae60; font-weight: bold; }
+      .title { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .wall-title { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #ffffff; }
+      .wall-subtitle { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 14px; fill: #ffffff; font-style: italic; }
+      .wall-text { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 12px; fill: #ffffff; }
+      .vision-text { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 14px; fill: #2c3e50; font-weight: bold; }
+      .goal-text { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 14px; fill: #27ae60; font-weight: bold; }
       .wall-1 { fill: #e74c3c; stroke: #c0392b; stroke-width: 3; }
       .wall-2 { fill: #f39c12; stroke: #d68910; stroke-width: 3; }
       .wall-3 { fill: #9b59b6; stroke: #7d3c98; stroke-width: 3; }
@@ -77,17 +77,17 @@
      id="circle1" />
   <text
      x="80"
-     y="253.61475"
+     y="257.61475"
      class="vision-text"
      text-anchor="middle"
-     style="font-size:13px;fill:#ffffff"
+     style="font-size:0.1px;fill:#ffffff"
      id="text2">Vision</text>
   <text
      x="80"
-     y="268.61475"
+     y="272.61475"
      class="vision-text"
      text-anchor="middle"
-     style="font-size:13px;fill:#ffffff"
+     style="font-size:0.1px;fill:#ffffff"
      id="text3">Definition</text>
   <!-- Goal: Implementation -->
   <circle
@@ -99,27 +99,19 @@
      stroke-width="3"
      id="circle3" />
   <text
-     x="820"
-     y="249.61475"
+     x="822"
+     y="257.61475"
      class="goal-text"
      text-anchor="middle"
-     style="font-size:13px;fill:#ffffff"
+     style="font-size:0.1px;fill:#ffffff"
      id="text4">Vision</text>
   <text
-     x="820"
-     y="264.61475"
+     x="822"
+     y="272.61475"
      class="goal-text"
      text-anchor="middle"
-     style="font-size:13px;fill:#ffffff"
-     id="text5"><tspan
-       sodipodi:role="line"
-       id="tspan12"
-       x="820"
-       y="264.61475">Implemen-</tspan><tspan
-       sodipodi:role="line"
-       id="tspan13"
-       x="820"
-       y="280.86475">tation</tspan></text>
+     style="font-size:0.1px;fill:#ffffff"
+     id="text5">Implementation</text>
   <!-- Path (dotted line showing the journey) -->
   <path
      d="m 115,258.61475 h 85 50 150 150 150 85"
@@ -144,7 +136,7 @@
   <text
      x="270"
      y="111.61475"
-     style="font-weight:bold;font-size:20px;font-family: Arial, sans-serif;fill:#ffffff"
+     style="font-weight:bold;font-size:0.1px;font-family:Arial;fill:#ffffff"
      text-anchor="middle"
      id="text6">1</text>
   <text
@@ -152,15 +144,15 @@
      y="148.61475"
      class="wall-title"
      text-anchor="middle"
-     id="text7"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="270"
-       y="148.61475">Organization</tspan><tspan
-       sodipodi:role="line"
-       id="tspan2"
-       x="270"
-       y="168.61475">Barrier</tspan></text>
+     id="text7">The Walls of Organization</text>
+  <text
+     x="270"
+     y="168.61475"
+     class="wall-subtitle"
+     text-anchor="middle"
+     id="text8"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan39">Organization Barrier</tspan></text>
   <circle
      cx="250"
      cy="203.61475"
@@ -183,44 +175,41 @@
      opacity="0.3"
      id="circle10" />
   <text
-     x="207"
+     x="215"
      y="248.69955"
      class="wall-text"
-     id="text10">✗ The boss has a</text>
+     id="text10">✗ The boss is different</text>
   <text
-     x="207"
+     x="225"
+     y="265.61475"
+     class="wall-text"
+     id="text11">Visionを持つ</text>
+  <text
+     x="215"
      y="295.61475"
      class="wall-text"
-     id="text12">✗ Members don't</text>
+     id="text12">✗ Member</text>
   <text
-     x="217"
+     x="225"
      y="312.55029"
      class="wall-text"
-     id="text13">understand</text>
+     id="text13">I don't understand</text>
   <text
-     x="207"
+     x="215"
      y="342.77881"
      class="wall-text"
      id="text14">✗ Other departments</text>
   <text
-     x="217"
+     x="225"
      y="359.45654"
      class="wall-text"
-     id="text15">won't cooperate</text>
+     id="text15">Will not cooperate</text>
   <text
-     x="207"
+     x="215"
      y="398.61475"
      class="wall-text"
-     style="font-weight:bold;font-size:13px"
-     id="text16"><tspan
-       sodipodi:role="line"
-       x="207"
-       y="398.61475"
-       id="tspan16">→ Penetration</tspan><tspan
-       sodipodi:role="line"
-       id="tspan15"
-       x="207"
-       y="414.86475">required</tspan></text>
+     style="font-weight:bold;font-size:0.1px"
+     id="text16">→ Penetration required</text>
   <!-- Wall 2: Measurement (Center) -->
   <rect
      x="380"
@@ -239,7 +228,7 @@
   <text
      x="450"
      y="111.61475"
-     style="font-weight:bold;font-size:20px;font-family: Arial, sans-serif;fill:#ffffff"
+     style="font-weight:bold;font-size:0.1px;font-family:Arial;fill:#ffffff"
      text-anchor="middle"
      id="text17">2</text>
   <text
@@ -247,65 +236,57 @@
      y="148.61475"
      class="wall-title"
      text-anchor="middle"
-     id="text18"><tspan
-       sodipodi:role="line"
-       id="tspan3"
-       x="450"
-       y="148.61475">Measurement</tspan><tspan
-       sodipodi:role="line"
-       id="tspan4"
-       x="450"
-       y="168.61475">Barrier</tspan></text>
+     id="text18">The Wall of Measurement</text>
+  <text
+     x="450"
+     y="168.61475"
+     class="wall-subtitle"
+     text-anchor="middle"
+     id="text19"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+       id="tspan40">Measurement Barrier</tspan></text>
   <text
      x="450"
      y="218.61475"
-     style="font-size:40px;font-family: Arial, sans-serif;opacity:0.3;fill:#ffffff"
+     style="font-size:0.1px;font-family:Arial;opacity:0.3;fill:#ffffff"
      text-anchor="middle"
      id="text20">?</text>
   <text
-     x="387"
+     x="395"
      y="249.16245"
      class="wall-text"
-     id="text21">✗ Vision is abstract</text>
+     id="text21">✗ Visionは抽象的</text>
   <text
      x="405"
      y="292"
      class="wall-text"
      id="text22" />
   <text
-     x="387"
+     x="395"
      y="295.33936"
      class="wall-text"
      id="text23">✗ Cannot be measured</text>
   <text
-     x="397"
+     x="405"
      y="312.57373"
      class="wall-text"
      id="text24">→ Progress unknown</text>
   <text
-     x="387"
+     x="395"
      y="342.52686"
      class="wall-text"
      id="text25">✗ Progress unknown</text>
   <text
-     x="397"
+     x="405"
      y="359.62646"
      class="wall-text"
      id="text26">→ Cannot be improved</text>
   <text
-     x="387"
+     x="395"
      y="398.61475"
      class="wall-text"
-     style="font-weight:bold;font-size:13px"
-     id="text27"><tspan
-       sodipodi:role="line"
-       id="tspan9"
-       x="387"
-       y="398.61475">→ KPI design is</tspan><tspan
-       sodipodi:role="line"
-       x="387"
-       y="414.86475"
-       id="tspan10"> necessary</tspan></text>
+     style="font-weight:bold;font-size:0.1px"
+     id="text27">→ KPI design is necessary</text>
   <!-- Wall 3: Continuity (Right) -->
   <rect
      x="560"
@@ -324,7 +305,7 @@
   <text
      x="630"
      y="111.61475"
-     style="font-weight:bold;font-size:20px;font-family: Arial, sans-serif;fill:#ffffff"
+     style="font-weight:bold;font-size:0.1px;font-family:Arial;fill:#ffffff"
      text-anchor="middle"
      id="text28">3</text>
   <text
@@ -332,15 +313,15 @@
      y="148.61475"
      class="wall-title"
      text-anchor="middle"
-     id="text29"><tspan
-       sodipodi:role="line"
-       id="tspan5"
-       x="630"
-       y="148.61475">Continuity</tspan><tspan
-       sodipodi:role="line"
-       id="tspan6"
-       x="630"
-       y="168.61475">Barrier</tspan></text>
+     id="text29">The Wall of Continuation</text>
+  <text
+     x="630"
+     y="168.61475"
+     class="wall-subtitle"
+     text-anchor="middle"
+     id="text30"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+       id="tspan41">Continuity Barrier</tspan></text>
   <circle
      cx="620"
      cy="203.61475"
@@ -366,57 +347,46 @@
      stroke-width="3"
      id="line31" />
   <text
-     x="567"
+     x="575"
      y="248.91049"
      class="wall-text"
-     id="text31">✗ Forgotten in</text>
+     id="text31">✗ For daily work</text>
   <text
-     x="577"
+     x="585"
      y="265.61475"
      class="wall-text"
-     id="text32">daily work</text>
+     id="text32">Forget when pursued</text>
   <text
-     x="567"
+     x="575"
      y="295.31592"
      class="wall-text"
-     id="text33">✗ Becomes obsolete</text>
+     id="text33">✗ Due to environmental changes</text>
   <text
-     x="577"
+     x="585"
      y="312.61475"
      class="wall-text"
-     id="text34">with change</text>
+     id="text34">To become obsolete</text>
   <text
-     x="567"
+     x="575"
      y="342.61475"
      class="wall-text"
-     id="text35">✗ Gets diluted by</text>
+     id="text35">✗ Due to member changes</text>
   <text
-     x="577"
+     x="585"
      y="359.61475"
      class="wall-text"
-     id="text36">member turnover</text>
+     id="text36">To become diluted</text>
   <text
-     x="567"
+     x="575"
      y="398.61475"
      class="wall-text"
-     style="font-weight:bold;font-size:13px"
-     id="text37">→ Update cycle</text>
+     style="font-weight:bold;font-size:0.1px"
+     id="text37">→ The update cycle</text>
   <text
-     x="577"
+     x="593"
      y="415.61475"
      class="wall-text"
-     style="font-weight:bold;font-size:13px"
-     id="text38">necessary</text>
+     style="font-weight:bold;font-size:0.1px"
+     id="text38">Necessary</text>
   <!-- Bottom note -->
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f9f9f9;stroke-width:1"
-     x="220.74472"
-     y="263.36926"
-     id="text8"><tspan
-       sodipodi:role="line"
-       id="tspan11"
-       x="220.74472"
-       y="263.36926"
-       style="font-style:normal;font-size:12px;stroke-width:1">different vision</tspan></text>
 </svg>

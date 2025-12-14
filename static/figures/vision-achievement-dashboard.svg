@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
   <defs>
     <style>
-      .title { font-family: Arial, sans-serif, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
-      .section-title { font-family: Arial, sans-serif, sans-serif; font-size: 18px; font-weight: bold; fill: #34495e; }
-      .metric-label { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #555; }
-      .metric-value { font-family: Arial, sans-serif, sans-serif; font-size: 14px; fill: #2c3e50; font-weight: bold; }
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .section-title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #34495e; }
+      .metric-label { font-family: Arial, sans-serif; font-size: 14px; fill: #555; }
+      .metric-value { font-family: Arial, sans-serif; font-size: 14px; fill: #2c3e50; font-weight: bold; }
       .status-good { fill: #27ae60; }
       .status-warning { fill: #f39c12; }
       .status-critical { fill: #e74c3c; }

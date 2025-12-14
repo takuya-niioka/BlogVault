@@ -22,11 +22,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.345"
      inkscape:cx="472.11896"
-     inkscape:cy="320.07435"
+     inkscape:cy="319.33086"
      inkscape:window-width="1920"
-     inkscape:window-height="1094"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg28" />
   <defs
@@ -34,11 +34,11 @@
     <style
        id="style1">
       .axis { stroke: #34495e; stroke-width: 3; }
-      .axis-label { font-family: Arial, sans-serif, sans-serif; font-size: 16px; font-weight: bold; fill: #2c3e50; }
-      .axis-label-large { font-family: Arial, sans-serif, sans-serif; font-size: 18px; font-weight: bold; fill: #2c3e50; }
-      .quadrant-title { font-family: Arial, sans-serif, sans-serif; font-size: 28px; font-weight: bold; }
-      .quadrant-subtitle { font-family: Arial, sans-serif, sans-serif; font-size: 16px; }
-      .quadrant-badge { font-family: Arial, sans-serif, sans-serif; font-size: 18px; font-weight: bold; }
+      .axis-label { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #2c3e50; }
+      .axis-label-large { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2c3e50; }
+      .quadrant-title { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 28px; font-weight: bold; }
+      .quadrant-subtitle { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 16px; }
+      .quadrant-badge { font-family: Metropolis, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 18px; font-weight: bold; }
 
       .q1-bg { fill: #27ae60; opacity: 0.15; }
       .q1-text { fill: #27ae60; }
@@ -164,12 +164,10 @@
      xml:space="preserve"><tspan
        x="68.790657"
        y="310.5625"
-       id="tspan1">Timing Not<tspan
-   y="310.5625"
-   id="tspan2"> </tspan></tspan><tspan
+       id="tspan5">タイミング未</tspan><tspan
        x="68.790657"
-       y="330.56249"
-       id="tspan3">Designed</tspan></text>
+       y="330.5625"
+       id="tspan6">設計</tspan></text>
   <!-- Q1: Top-right (BEST) -->
   <g
      id="q1"
@@ -206,8 +204,8 @@
        x="575"
        y="235"
        text-anchor="middle"
-       style="font-size:14px;font-family: Arial, sans-serif;fill:#27ae60"
-       id="text15">Systematic  Planned Proactive</text>
+       style="font-size:0.1px;font-family:Arial;fill:#27ae60"
+       id="text15">Systematic & Planned Proactive</text>
   </g>
   <!-- Q2: Top-left -->
   <g
@@ -245,7 +243,7 @@
        x="225"
        y="235"
        text-anchor="middle"
-       style="font-size:14px;font-family: Arial, sans-serif;fill:#2980b9"
+       style="font-size:0.1px;font-family:Arial;fill:#2980b9"
        id="text19">Depends on Individual Intuition</text>
   </g>
   <!-- Q3: Bottom-left (WORST) -->
@@ -284,7 +282,7 @@
        x="225"
        y="490"
        text-anchor="middle"
-       style="font-size:14px;font-family: Arial, sans-serif;fill:#c0392b"
+       style="font-size:0.1px;font-family:Arial;fill:#c0392b"
        id="text23">Improvised Response</text>
   </g>
   <!-- Q4: Bottom-right -->
@@ -323,7 +321,7 @@
        x="575"
        y="490"
        text-anchor="middle"
-       style="font-size:14px;font-family: Arial, sans-serif;fill:#d68910"
+       style="font-size:0.1px;font-family:Arial;fill:#d68910"
        id="text27">Planned but Passive</text>
   </g>
   <!-- Arrows pointing to best quadrant -->
@@ -350,14 +348,12 @@
      class="axis-label"
      id="text28"
      style="white-space:pre;inline-size:94.1069;display:inline"
-     transform="translate(768.51427,-17.086223)"
+     transform="translate(764.51427,-17.086223)"
      xml:space="preserve"><tspan
        x="68.790657"
        y="310.5625"
-       id="tspan4">Timing<tspan
-   y="310.5625"
-   id="tspan5"> </tspan></tspan><tspan
+       id="tspan7">タイミング設</tspan><tspan
        x="68.790657"
-       y="330.56249"
-       id="tspan6">Designed</tspan></text>
+       y="330.5625"
+       id="tspan8">計済み</tspan></text>
 </svg>

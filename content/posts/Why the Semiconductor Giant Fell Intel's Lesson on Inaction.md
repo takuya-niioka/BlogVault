@@ -1,17 +1,14 @@
 +++
-created = "2025-11-17"
-date = "2025-11-18T07:26:31+09:00"
 title = "Why the Semiconductor Giant Fell: Intel's Lesson on Inaction"
-author = "Takuya Niioka"
+date = "2025-11-18T07:26:31+09:00"
 draft = false
-portfolio = ["[[Portfolio_Blog]]"]
 tags = ["strategy", "semiconductor", "Intel", "TSMC", "NVIDIA", "strategic-inflection-point", "organizational-change"]
 slug = "stagnation-is-the-worst-decision"
-categories = ["Strategy Analysis", "Industry Insights"]
 description = "Intel's market cap plunged below $100B as TSMC and NVIDIA soared, while AMD captured 32% of the desktop CPU market by 2025."
-lang = "en"
 publishDate = "2025-11-18T07:37:22+09:00"
+lastmod = "2025-12-13T11:07:25+09:00"
 +++
+
 ## The Fall of a Technology Leader
 
 In recent years, the power dynamics of the semiconductor industry have changed dramatically. Intel, which once led the PC revolution alongside the "Intel Inside" logo and reigned as the absolute king of the semiconductor industry, has been overtaken in market capitalization by both TSMC and NVIDIA. Its market cap, which exceeded $200 billion in 2020, fell below $100 billion by April 2025[^1]. Meanwhile, TSMC reached $1 trillion in July 2025, and NVIDIA, riding the AI boom, became the first company in the world to exceed $5 trillion on October 29, 2025[^2].
@@ -371,7 +368,7 @@ What AMD's Lisa Su executed was exactly this approach. While betting on the sing
 
 Most difficult is cultural transformation. In successful companies like Intel, "making correct decisions" is emphasized. Thorough analysis, perfect planning, consensus of all stakeholders.
 
-But in an era of rapid environmental change, **speed is more important than correctness**. 
+But in an era of rapid environmental change, **speed is more important than correctness**. (Reference article: [@trigger-design-for-decision-criteria])
 
 Concrete actions for cultural transformation:
 - Simplify decision-making processes (reduce approval layers)
@@ -470,6 +467,15 @@ An era where **the speed of will** is questioned more than technology.
 Where do your company, your industry, and you yourself stand now?
 
 ---
+
+
+
+## Related Articles
+
+- [Prioritizing Multiple Options: Switching Criteria by Context](/posts/prioritization-under-multiple-objectives/)
+- [Proactive vs Reactive Decisions: 4 Quadrants Framework](/posts/four-quadrants-of-decision-making/)
+- [Defining Vision: Strategic Choice from Past Success & Failure](/posts/how-to-define-vision-strategic-choice/)
+- [The Art of Implementing Vision: Bridging Definition to Execution](/posts/vision-implementation-bridging-definition-to-execution/)
 
 ## References
 
