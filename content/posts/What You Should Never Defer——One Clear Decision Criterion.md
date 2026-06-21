@@ -21,7 +21,7 @@ aliases = []
 id = "Article-017_What-You-Should-Never-Defer"
 date = "2026-06-21T19:39:41+09:00"
 publishDate = "2026-06-21T19:39:41+09:00"
-lastmod = "2026-06-21T19:49:47+09:00"
+lastmod = "2026-06-21T20:00:38+09:00"
 draft = false
 title = "What You Should Never Defer — One Clear Decision Criterion"
 +++
@@ -86,6 +86,8 @@ When you put it on the scale, the answer was obvious.
 Take a moment to imagine the size of the consequence you'd be avoiding by acting now. That alone makes the action cost look cheap.
 
 Next time something feels like a hassle to deal with, ask yourself one question: **What consequence does deferring this actually create?**
+
+That's the **Pre-Deferral Cost Check** — one question, asked at the moment you're tempted to defer.
 
 Your next "we're not going to make it" might be something you're planting today.
 
