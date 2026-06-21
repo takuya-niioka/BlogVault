@@ -1,23 +1,19 @@
 +++
 created = "2026-06-19"
 status = "draft"
-published_at = "None"
-url = "None"
 title_en = "What You Should Never Defer — One Clear Decision Criterion"
 title_ja = "何を先送りにしてはいけないか——1つの明確な判断基準"
 author = "Takuya Niioka"
 slug = "inaction-cost-the-hidden-engineering-mistake"
 categories = ["engineering-philosophy", "decision-making"]
-description = "That last-minute panic isn't bad luck. It's the accumulated cost of deferred decisions finally becoming visible. Here's the one question that changes how you act."
+description = "Last-minute panic reveals hidden costs of inaction. Discover the one question that changes how engineers make decisions and avoid costly delays."
 audience = "adas-engineer"
 reader_q = "Why does everything always blow up right before the deadline?"
 reader_outcome = "When you feel the urge to defer something, you'll pause to ask what it will cost you later — the Pre-Deferral Cost Check."
 claim = "Almost every problematic deferral traces back to underestimating the future consequence. It's not laziness — it's Hyperbolic Discounting, a structural feature of human cognition."
 series = "What Good Engineering Actually Looks Like"
-word_count = "None"
 lv = "LV1"
 source = ["Kahneman & Tversky (1979) Planning Fallacy", "Ainslie (1975) / Laibson (1997) Hyperbolic Discounting"]
-linked_linkedin = "None"
 p013 = "{'audience_specific': True, 'has_claim': True, 'no_honda_internal': True, 'reader_based': True}"
 tags = ["engineering", "decision-making", "procrastination", "inaction-cost", "adas", "automotive"]
 portfolio = ["[[Portfolio_Blog]]"]
@@ -25,7 +21,7 @@ aliases = []
 id = "Article-017_What-You-Should-Never-Defer"
 date = "2026-06-21T19:39:41+09:00"
 publishDate = "2026-06-21T19:39:41+09:00"
-lastmod = "2026-06-21T19:44:57+09:00"
+lastmod = "2026-06-21T19:49:47+09:00"
 draft = false
 title = "What You Should Never Defer — One Clear Decision Criterion"
 +++
